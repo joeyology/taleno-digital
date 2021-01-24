@@ -40,7 +40,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Sign Up",
+                "label": "Contact Us",
                 "url": "/signup",
                 "style": "primary"
             }
