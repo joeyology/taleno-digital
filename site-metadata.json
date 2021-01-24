@@ -34,7 +34,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Blog",
-                "url": "/style-guide",
+                "url": "/blog",
                 "style": "link"
             },
             {
