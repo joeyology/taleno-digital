@@ -1,7 +1,7 @@
 {
     "title": "Taleno.Digital",
     "palette": "cyan",
-    "base_font": "system-sans",
+    "base_font": "nunito-sans",
     "header": {
         "type": "header",
         "template": "header",
