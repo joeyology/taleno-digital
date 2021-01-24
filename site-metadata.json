@@ -41,7 +41,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Contact Us",
-                "url": "/contact-us",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
