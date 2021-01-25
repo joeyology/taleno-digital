@@ -12,7 +12,7 @@ sections:
     content: >
       Helping you build an end-to-end cloud data platform so you can focus on
       making data-driven decisions.
-    image: /images/imageonline-co-transparentimage (5).png
+    image: /images/undraw_data_trends_b0wg.svg
     image_alt: App preview
     actions:
       - type: action
