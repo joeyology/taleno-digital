@@ -44,7 +44,7 @@ sections:
             style: primary
       - type: pricing_plan
         template: pricing_plan
-        title: Enterprise
+        title: Business Insights & Analytics
         subtitle: For very large businesses
         price: $149/m
         details: |-
