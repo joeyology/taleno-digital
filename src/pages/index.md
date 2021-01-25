@@ -109,9 +109,14 @@ sections:
         author: Jane Roe
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          It was easy working with Jose Mari at Polytechnic University of the
+          Philippines MsC in Information Technology. He is a good presenter and
+          a subject matter expert in the field of Data Analysis and reporting.
+          He helped me with several documents that we were building and added a
+          lot of feedback to the competitive analysis when we really needed
+          more. He was a pleasure to work with and I hope to work with him again
+          outside of PUP as I graduate this May. If there are any projects that
+          I need help with, I’m glad to contact him and work together.
       - type: review_item
         template: review_item
         author: Richard Roe
