@@ -120,7 +120,7 @@ sections:
       - type: review_item
         template: review_item
         author: Richard Roe
-        avatar: images/review3.jpg
+        avatar: /images/1517673709207.jpg
         content: >-
           I am highly recommending Jose Mari. He was one of my favorite
           developers to work with. Joey as we call him has a great mix of
