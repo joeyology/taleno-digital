@@ -10,7 +10,7 @@ sections:
     section_id: hero
     title: Your Partner for Data Analytics
     content: >
-      Helping you build a low-code cloud data platform so you can focus on
+      Helping you build an end-to-end cloud data platform so you can focus on
       making data-driven decisions.
     image: images/hero.png
     image_alt: App preview
