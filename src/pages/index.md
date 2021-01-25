@@ -13,7 +13,7 @@ sections:
       Helping you build an end-to-end cloud data platform so you can focus on
       making data-driven decisions.
     image: /images/undraw_data_trends_b0wg.svg
-    image_alt: App preview
+    image_alt: ''
     actions:
       - type: action
         template: action
