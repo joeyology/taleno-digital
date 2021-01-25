@@ -32,7 +32,7 @@ sections:
         default_value: Please select
         options:
           - Data Integration
-          - Sponsorship
+          - Data Warehouse
           - Other
       - type: form_field
         template: form_field
