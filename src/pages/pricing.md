@@ -56,7 +56,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Choose Business Insights & Analytics
             url: /signup
             style: secondary
   - type: section_faq
