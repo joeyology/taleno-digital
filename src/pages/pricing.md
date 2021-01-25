@@ -26,7 +26,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Secure Cloud Data Warehouse
+        title: Data Architect
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
