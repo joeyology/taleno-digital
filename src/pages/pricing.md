@@ -69,9 +69,11 @@ sections:
       - type: faq_item
         template: faq_item
         question: Is my data private?
-        answer: >
+        answer: >+
           Yes we will keep your data and information private. Trust that your
-          data will not be shared to anyone.
+          data will not be shared to anyone. Your credentials will be deleted
+          after rendering the service.
+
       - type: faq_item
         template: faq_item
         question: Are you storing my data?
