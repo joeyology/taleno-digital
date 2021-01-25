@@ -107,7 +107,7 @@ sections:
       - type: review_item
         template: review_item
         author: Jane Roe
-        avatar: images/review2.jpg
+        avatar: /images/1517229458602.jpg
         content: >-
           It was easy working with Jose Mari at Polytechnic University of the
           Philippines MsC in Information Technology. He is a good presenter and
