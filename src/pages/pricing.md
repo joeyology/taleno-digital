@@ -46,7 +46,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Business Analytics
-        subtitle: For very large businesses
+        subtitle: For analyzing data
         price: $50
         details: |
           *   Setup of Tableau Online
