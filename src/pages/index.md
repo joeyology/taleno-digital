@@ -132,4 +132,5 @@ sections:
     background: gray
 template: landing
 no_index: true
+canonical_url: 'https://taleno.digital'
 ---
