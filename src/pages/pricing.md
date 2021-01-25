@@ -63,7 +63,7 @@ sections:
     template: section_faq
     section_id: faq
     title: Frequently Asked Questions
-    subtitle: ''
+    subtitle: Here are some of the most frequently asked questions to help you out!
     background: gray
     faq_items:
       - type: faq_item
