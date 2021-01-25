@@ -74,7 +74,7 @@ sections:
           data will not be shared to anyone.
       - type: faq_item
         template: faq_item
-        question: Aliquam eget purus ante?
+        question: Are you storing my data?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
