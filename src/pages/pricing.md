@@ -12,7 +12,7 @@ sections:
         template: pricing_plan
         title: Data Analyst Package
         subtitle: For small businesses
-        price: $5/m
+        price: $50
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
