@@ -33,7 +33,7 @@ sections:
         options:
           - Data Integration
           - Data Warehouse
-          - Other
+          - Data
       - type: form_field
         template: form_field
         input_type: textarea
