@@ -126,7 +126,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: Start with our FREE consultation!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We love to hear from you.
     actions:
       - type: action
         template: action
