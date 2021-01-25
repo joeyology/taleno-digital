@@ -7,9 +7,9 @@ sections:
     template: section_hero
     section_id: hero
     title: Your Business Partner for your Data Analytics Needs
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Helping you build a low-code cloud data platform so you can focus on
+      making data-driven decisions.
     image: images/hero.png
     image_alt: App preview
     actions:
