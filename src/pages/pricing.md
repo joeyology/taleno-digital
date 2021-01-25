@@ -24,7 +24,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Data Architect Package
+        title: Data Warehouse
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
