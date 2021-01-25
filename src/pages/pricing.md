@@ -40,7 +40,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Choose Data Warehouse
             url: /signup
             style: primary
       - type: pricing_plan
