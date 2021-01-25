@@ -83,9 +83,7 @@ sections:
     template: section_reviews
     section_id: reviews
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: Hear what people say about us.
     background: white
     reviews:
       - type: review_item
