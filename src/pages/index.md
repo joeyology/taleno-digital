@@ -25,8 +25,8 @@ sections:
     section_id: features
     title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We offer end-to-end data services from Data Integration, Data Warehouse to
+      Business Insights & Analytics.
     background: gray
     features:
       - type: feature_item
