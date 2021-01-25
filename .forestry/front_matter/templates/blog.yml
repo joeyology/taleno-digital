@@ -34,3 +34,4 @@ fields:
     required: true
 pages:
 - src/pages/blog/index.md
+- src/pages/blog/index.md
