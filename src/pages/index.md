@@ -94,7 +94,7 @@ sections:
     reviews:
       - type: review_item
         template: review_item
-        author: John Doe
+        author: Doug Needham
         avatar: /images/1516263094346.jpg
         content: >-
           Joey is an outstanding data engineer. He is intimate with all the data
