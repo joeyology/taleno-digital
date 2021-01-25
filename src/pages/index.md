@@ -2,8 +2,8 @@
 title: Home
 meta_title: Your Partner for Data Analytics
 meta_description: >-
-  Helping you build a low-code cloud data platform so you can focus on making
-  data-driven decisions.
+  Helping you build an end-to-end  cloud data platform so you can focus on
+  making data-driven decisions.
 sections:
   - type: section_hero
     template: section_hero
