@@ -131,4 +131,5 @@ sections:
     title: Latest Posts
     background: gray
 template: landing
+no_index: true
 ---
