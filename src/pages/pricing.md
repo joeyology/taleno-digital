@@ -41,7 +41,7 @@ sections:
           - type: action
             template: action
             label: Choose Data Warehouse
-            url: /signup
+            url: /contact
             style: primary
       - type: pricing_plan
         template: pricing_plan
