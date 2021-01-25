@@ -35,6 +35,7 @@ sections:
           - Data Warehouse
           - Business Analytics
           - Data Integration + Data Warehouse
+          - lorem-ipsum
       - type: form_field
         template: form_field
         input_type: textarea
