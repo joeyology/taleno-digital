@@ -18,7 +18,7 @@ sections:
       - type: action
         template: action
         label: Learn More
-        url: /features
+        url: '/#services'
         style: primary
   - type: section_features
     template: section_features
