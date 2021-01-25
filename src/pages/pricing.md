@@ -22,7 +22,7 @@ sections:
           - type: action
             template: action
             label: Choose Data Integration
-            url: /signup
+            url: /contact
             style: secondary
       - type: pricing_plan
         template: pricing_plan
