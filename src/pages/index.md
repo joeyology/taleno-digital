@@ -73,7 +73,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: /images/undraw_secure_data_0rwp.svg
-        image_alt: App user profile preview
+        image_alt: 'Business Insights & '
         actions:
           - type: action
             template: action
