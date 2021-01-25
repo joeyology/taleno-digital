@@ -5,7 +5,9 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      These are just our initial pricing plans. Additional charges may apply
+      depending on the additional requirements.
     background: gray
     pricing_plans:
       - type: pricing_plan
