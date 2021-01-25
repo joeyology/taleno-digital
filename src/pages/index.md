@@ -65,10 +65,9 @@ sections:
       - type: feature_item
         template: feature_item
         title: Business Insights & Analytics
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We can help you get business insights and analytics powered by
+          Tableau.
         image: /images/undraw_secure_data_0rwp.svg
         image_alt: Business Insights Analytics
         actions:
