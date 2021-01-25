@@ -75,10 +75,9 @@ sections:
       - type: faq_item
         template: faq_item
         question: Are you storing my data?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+        answer: >
+          No. We are not going to store your data. However, all your data will
+          be stored in your data warehouse.
       - type: faq_item
         template: faq_item
         question: Sed scelerisque in ipsum eu sollicitudin?
