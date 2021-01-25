@@ -119,7 +119,7 @@ sections:
           I need help with, I’m glad to contact him and work together.
       - type: review_item
         template: review_item
-        author: Richard Roe
+        author: Angie Payne
         avatar: /images/1517673709207.jpg
         content: >-
           I am highly recommending Jose Mari. He was one of my favorite
