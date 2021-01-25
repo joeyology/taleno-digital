@@ -73,7 +73,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: /images/undraw_secure_data_0rwp.svg
-        image_alt: 'Business Insights & '
+        image_alt: Business Insights Analytics
         actions:
           - type: action
             template: action
