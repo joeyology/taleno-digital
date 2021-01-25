@@ -70,8 +70,8 @@ sections:
         template: faq_item
         question: Is my data private?
         answer: >
-          Yes we will keep your data and information private. Your data will not
-          be shared and even be deleted after rendering the service.
+          Yes we will keep your data and information private. Trust that your
+          data will not be shared to anyone.
       - type: faq_item
         template: faq_item
         question: Aliquam eget purus ante?
