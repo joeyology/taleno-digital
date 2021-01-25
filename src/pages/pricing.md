@@ -15,6 +15,7 @@ sections:
         price: $50
         details: |
           *   Setup of Matillion in AWS
+          *   5 Matillion ETL/ELT Jobs
         actions:
           - type: action
             template: action
