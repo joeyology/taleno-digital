@@ -95,10 +95,15 @@ sections:
       - type: review_item
         template: review_item
         author: John Doe
-        avatar: images/review1.jpg
+        avatar: /images/1516263094346.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Joey is an outstanding data engineer. He is intimate with all the data
+          modeling best practices, and provided outstanding operational support
+          for our Data Lake initiative. His attention to detail, and
+          professionalism in designing, building, and supporting our Data Lake
+          on both the Redshift and Snowflake platforms reflected credit upon
+          himself and our team. I would work with Joey again given the
+          opportunity.
       - type: review_item
         template: review_item
         author: Jane Roe
