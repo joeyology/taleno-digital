@@ -27,7 +27,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Data Warehouse
-        subtitle: For medium-sized businesses
+        subtitle: For storing data
         price: $50
         details: |
           *   Setup of Snowflake
