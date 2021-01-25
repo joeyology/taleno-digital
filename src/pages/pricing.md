@@ -26,7 +26,7 @@ sections:
         template: pricing_plan
         title: Data Warehouse
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $50
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
