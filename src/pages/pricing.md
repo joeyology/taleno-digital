@@ -44,7 +44,7 @@ sections:
             style: primary
       - type: pricing_plan
         template: pricing_plan
-        title: Business Insights & Analytics
+        title: Data Scientist Package
         subtitle: For very large businesses
         price: $149/m
         details: |-
