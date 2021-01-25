@@ -1,6 +1,6 @@
 ---
 title: Home
-meta_title: Your Partner for Data Analytics
+meta_title: Your Business Partner for Data Analytics
 meta_description: >-
   Helping you build an end-to-end cloud data platform so you can focus on making
   data-driven decisions.
