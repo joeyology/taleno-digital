@@ -25,8 +25,8 @@ sections:
     section_id: features
     title: Services
     subtitle: >-
-      We offer end-to-end data services from Data Integration, Data Warehouse to
-      Business Insights & Analytics.
+      We offer an end-to-end data services to help you with your Data
+      Integration, Data Warehousing and Business Insights & Analytics needs.
     background: gray
     features:
       - type: feature_item
