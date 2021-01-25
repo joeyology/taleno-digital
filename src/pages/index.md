@@ -106,7 +106,7 @@ sections:
           opportunity.
       - type: review_item
         template: review_item
-        author: Jane Roe
+        author: Avery Palay
         avatar: /images/1517229458602.jpg
         content: >-
           It was easy working with Jose Mari at Polytechnic University of the
