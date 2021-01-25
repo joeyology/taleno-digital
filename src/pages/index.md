@@ -22,7 +22,7 @@ sections:
         style: primary
   - type: section_features
     template: section_features
-    section_id: features
+    section_id: services
     title: Services
     subtitle: >-
       We provide end-to-end services to help you with your Data Integration,
