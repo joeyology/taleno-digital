@@ -49,10 +49,8 @@ sections:
       - type: feature_item
         template: feature_item
         title: Scalable & Secure Cloud Data Warehouse
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          We will help you setup a cloud data warehouse powered by Snowflake.
         image: /images/undraw_server_status_5pbv.svg
         image_alt: Scalable Secure Cloud Data Warehouse
         actions:
