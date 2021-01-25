@@ -122,8 +122,12 @@ sections:
         author: Richard Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          I am highly recommending Jose Mari. He was one of my favorite
+          developers to work with. Joey as we call him has a great mix of
+          technical and business/communication skills. He didn't just develop
+          applications, he learned/understood what the business really wanted
+          and he developed solutions. He is very much a team player and very
+          easy to work with.
   - type: section_cta
     template: section_cta
     section_id: call-to-action
