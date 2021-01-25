@@ -57,7 +57,7 @@ sections:
           - type: action
             template: action
             label: Choose Business Analytics
-            url: /signup
+            url: /contact
             style: secondary
   - type: section_faq
     template: section_faq
