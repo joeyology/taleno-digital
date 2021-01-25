@@ -55,7 +55,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: /images/undraw_server_status_5pbv.svg
-        image_alt: App users welcoming a new member
+        image_alt: Sca
         actions:
           - type: action
             template: action
