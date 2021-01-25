@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Your Data Analytics Partner
+    title: Your Partner for Data Analytics
     content: >
       Helping you build a low-code cloud data platform so you can focus on
       making data-driven decisions.
