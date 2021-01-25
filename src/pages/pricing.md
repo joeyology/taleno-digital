@@ -13,7 +13,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Data Integration
-        subtitle: For loading data sources
+        subtitle: For loading data
         price: $50
         details: |
           *   Setup of Matillion in AWS
