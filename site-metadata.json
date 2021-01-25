@@ -73,15 +73,15 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Blog",
-                        "url": "/blog",
+                        "label": "Sign Up",
+                        "url": "/signup",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Sign Up",
-                        "url": "/signup",
+                        "label": "Blog",
+                        "url": "/blog",
                         "style": "link"
                     },
                     {
