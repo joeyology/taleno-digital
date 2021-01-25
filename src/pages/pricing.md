@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: >-
       These are just our initial pricing plans. Additional charges may apply
-      depending on the additional requirements.
+      depending on your additional requirements.
     background: gray
     pricing_plans:
       - type: pricing_plan
