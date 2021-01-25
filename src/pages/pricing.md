@@ -45,7 +45,7 @@ sections:
             style: primary
       - type: pricing_plan
         template: pricing_plan
-        title: Business Insights & Analytics
+        title: Business Analytics
         subtitle: For very large businesses
         price: $50
         details: |
