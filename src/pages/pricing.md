@@ -46,11 +46,11 @@ sections:
         title: Business Insights & Analytics
         subtitle: For very large businesses
         price: $50
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Setup of Tableau Online
+          *   2 Data Sources
+          *   5 Worksheets
+          *   1  Dashboard
         actions:
           - type: action
             template: action
