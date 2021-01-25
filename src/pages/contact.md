@@ -5,10 +5,9 @@ sections:
     template: section_contact
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Hello! We just want to say thank you in advance and we are looking forward
+      to be your business partner for your data analytics needs.
     background: gray
     form_id: contactForm
     form_fields:
