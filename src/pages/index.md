@@ -137,7 +137,7 @@ sections:
       - type: action
         template: action
         label: Get Started
-        url: /signup
+        url: /contact
         style: primary
   - type: section_posts
     template: section_posts
