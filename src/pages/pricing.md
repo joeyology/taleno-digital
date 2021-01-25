@@ -10,7 +10,7 @@ sections:
     pricing_plans:
       - type: pricing_plan
         template: pricing_plan
-        title: Data Analyst
+        title: Data Analyst Package
         subtitle: For small businesses
         price: $5/m
         details: |-
