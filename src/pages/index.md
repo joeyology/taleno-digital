@@ -33,8 +33,8 @@ sections:
         template: feature_item
         title: Low-code Data Integration Platform
         content: >
-          We will help you setup a Matillion ETL instance in AWS as your
-          low-code data integration platform in the cloud.
+          We will help you setup a low-code data integration platform in the
+          cloud powered by Matillion.
         image: /images/undraw_version_control_9bpv.svg
         image_alt: Low-code Data Integration
         actions:
