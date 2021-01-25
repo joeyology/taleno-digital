@@ -21,7 +21,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Choose Data Integration
             url: /signup
             style: secondary
       - type: pricing_plan
