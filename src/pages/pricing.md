@@ -27,12 +27,13 @@ sections:
         title: Data Warehouse
         subtitle: For medium-sized businesses
         price: $50
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Setup of Snowflake
+          *   1 User and Group Role Security
+          *   1 Data Warehouse
+          *   1 Database
+          *   1 Schema
+          *   5 Tables & Views
         highlight: true
         actions:
           - type: action
