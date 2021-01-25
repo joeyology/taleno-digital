@@ -13,11 +13,8 @@ sections:
         title: Data Analyst Package
         subtitle: For small businesses
         price: $50
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Setup of Matillion in AWS
         actions:
           - type: action
             template: action
