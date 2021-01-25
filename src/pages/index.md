@@ -65,7 +65,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Cool Feature of Your Services
+        title: Business Insights & Analytics
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
