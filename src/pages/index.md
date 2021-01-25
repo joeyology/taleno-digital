@@ -1,6 +1,6 @@
 ---
 title: Home
-meta_title: Stackbit Azimuth Theme
+meta_title: Your Partner for Data Analytics
 meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
