@@ -139,6 +139,6 @@ sections:
     title: Latest Posts
     background: gray
 template: landing
-no_index: true
+no_index: false
 canonical_url: 'https://taleno.digital'
 ---
