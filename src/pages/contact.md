@@ -52,4 +52,5 @@ sections:
         is_required: true
     submit_label: Send Message
 template: landing
+meta_title: ''
 ---
