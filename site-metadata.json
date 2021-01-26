@@ -7,7 +7,7 @@
         "template": "header",
         "logo_img": "/images/taleno - logo - small.png",
         "logo_img_alt": "Taleno.Digital",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "type": "action",
