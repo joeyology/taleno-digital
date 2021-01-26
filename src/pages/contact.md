@@ -54,4 +54,5 @@ sections:
 template: landing
 meta_title: Contact Form
 meta_description: Data Analytics Contact Form
+canonical_url: 'https://taleno.digital/contact'
 ---
