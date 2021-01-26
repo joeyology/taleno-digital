@@ -36,7 +36,7 @@ sections:
           - Data Integration + Data Warehouse
           - Data Warehouse + Business Analytics
           - Data Integration + Data Warehouse + Business Analytics
-          - FREE
+          - FREE Consultation
       - type: form_field
         template: form_field
         input_type: textarea
