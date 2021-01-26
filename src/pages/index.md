@@ -138,6 +138,12 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     background: gray
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
+    template: section_posts
 template: landing
 no_index: true
 canonical_url: 'https://taleno.digital'
