@@ -53,5 +53,5 @@ sections:
     submit_label: Send Message
 template: landing
 meta_title: ''
-meta_description: Data Analytics Contact
+meta_description: Data Analytics Contact Form
 ---
