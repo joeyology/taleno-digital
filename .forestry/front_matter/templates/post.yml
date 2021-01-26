@@ -70,11 +70,9 @@ fields:
   config:
     required: true
 pages:
-- src/pages/blog/azimuth-improvements.md
 - src/pages/blog/customer-loyalty.md
 - src/pages/blog/customer-service-skills-that-every-employee-needs.md
 - src/pages/blog/design-azimuth.md
-- src/pages/blog/design-team-collaborates.md
 - src/pages/blog/user-journey-mapping.md
 - src/pages/blog/what-is-a-data-warehouse.md
 - src/pages/blog/what-is-business-analytics.md
