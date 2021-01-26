@@ -69,7 +69,7 @@ sections:
         content: >
           We can help you get business insights and analytics powered by
           Tableau.
-        image: /images/undraw_secure_data_0rwp.svg
+        image: /images/undraw_Charts_re_5qe9.svg
         image_alt: Make data-driven decisions through business analytics
         actions:
           - type: action
