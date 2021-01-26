@@ -52,7 +52,7 @@ sections:
         content: |
           We can help you setup a cloud data warehouse powered by Snowflake.
         image: /images/undraw_server_status_5pbv.svg
-        image_alt: Scalable Secure Cloud Data Warehouse
+        image_alt: Keep your business data in fast and secure cloud data warehouse
         actions:
           - type: action
             template: action
