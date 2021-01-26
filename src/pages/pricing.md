@@ -83,4 +83,5 @@ sections:
 template: landing
 meta_title: Data Analytics Price
 meta_description: Affordable Data Analytics
+canonical_url: 'https://taleno.digital/pricing'
 ---
