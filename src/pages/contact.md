@@ -52,6 +52,6 @@ sections:
         is_required: true
     submit_label: Send Message
 template: landing
-meta_title: ''
+meta_title: Contact Form
 meta_description: Data Analytics Contact Form
 ---
