@@ -82,4 +82,5 @@ sections:
           be stored in your data warehouse.
 template: landing
 meta_title: ''
+meta_description: Affordable Data Analytics
 ---
