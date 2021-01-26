@@ -33,8 +33,8 @@ sections:
         template: feature_item
         title: Integrate and transform your business data with less or no-code
         content: >
-          We can help you setup a low-code data integration platform in the
-          cloud powered by Matillion.
+          We can help you setup a low-code to no-code data integration platform
+          in the cloud powered by Matillion.
         image: /images/undraw_version_control_9bpv.svg
         image_alt: Integrate and transform your business data with less or no-code
         actions:
