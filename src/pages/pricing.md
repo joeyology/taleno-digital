@@ -81,4 +81,5 @@ sections:
           No. We are not going to store your data. However, all your data will
           be stored in your data warehouse.
 template: landing
+meta_title: Cheap Data Analytics
 ---
