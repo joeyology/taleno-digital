@@ -65,7 +65,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Business Insights & Analytics
+        title: Make data-driven decisions through business analytics
         content: >
           We can help you get business insights and analytics powered by
           Tableau.
