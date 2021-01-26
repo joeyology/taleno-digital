@@ -11,7 +11,7 @@ sections:
     title: Your Business Partner for Data Analytics
     content: >
       Helping you build an end-to-end cloud data solution so you can focus on
-      making data-driven decisions.
+      making data-driven decisions for your business.
     image: /images/undraw_data_trends_b0wg.svg
     image_alt: Data Analytics
     actions:
