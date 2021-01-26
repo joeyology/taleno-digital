@@ -31,7 +31,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: Low-code Data Integration Platform
+        title: Integrate your business data with less code
         content: >
           We can help you setup a low-code data integration platform in the
           cloud powered by Matillion.
