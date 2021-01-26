@@ -48,7 +48,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Scalable & Secure Cloud Data Warehouse
+        title: Keep your business data in fast and secure cloud data warehouse
         content: |
           We can help you setup a cloud data warehouse powered by Snowflake.
         image: /images/undraw_server_status_5pbv.svg
