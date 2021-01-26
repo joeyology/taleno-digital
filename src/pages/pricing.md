@@ -82,6 +82,6 @@ sections:
           be stored in your data warehouse.
 template: landing
 meta_title: Data Analytics Price
-meta_description: Affordable Data Analytics
+meta_description: Taleno Data Analysis Services Pricing
 canonical_url: 'https://taleno.digital/pricing'
 ---
