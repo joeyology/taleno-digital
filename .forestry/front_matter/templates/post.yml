@@ -70,7 +70,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/blog/customer-service-skills-that-every-employee-needs.md
 - src/pages/blog/what-is-a-data-warehouse.md
 - src/pages/blog/what-is-business-analytics.md
 - src/pages/blog/what-is-data-integration.md
