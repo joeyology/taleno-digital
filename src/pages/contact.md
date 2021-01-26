@@ -53,6 +53,6 @@ sections:
     submit_label: Send Message
 template: landing
 meta_title: Contact Form
-meta_description: Data Analytics Contact Form
+meta_description: 'Taleno '
 canonical_url: 'https://taleno.digital/contact'
 ---
