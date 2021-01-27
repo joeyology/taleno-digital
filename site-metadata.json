@@ -17,6 +17,17 @@
                 "style": "link"
             },
             {
+                "label": "About Us",
+                "url": "https://taleno.digital/about",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "template": "action",
                 "label": "Services",
@@ -36,17 +47,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "About Us",
-                "url": "https://taleno.digital/about",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             },
             {
                 "type": "action",
