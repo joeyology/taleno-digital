@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: ''
-image: ''
-image_alt: ''
+image: "/images/franki-chamaki-1k6iqsqbizi-unsplash.jpg"
+image_alt: Photo by Franki Chamaki
 template: page
 meta_title: Taleno About Us
 meta_description: Taleno Data Analysis Services Vision Mission Partners Team
@@ -10,6 +10,8 @@ canonical_url: https://taleno.digital/about
 no_index: false
 
 ---
+Photo by [Franki Chamaki](https://unsplash.com/@franki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data-silo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## Our Vision
 
 #### To be an indispensable data analytics business partner.
