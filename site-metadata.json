@@ -83,7 +83,7 @@
                     },
                     {
                         "label": "Services",
-                        "url": "lorem-ipsum",
+                        "url": "https://taleno.digital/#services",
                         "style": "link",
                         "has_icon": false,
                         "icon": "arrow-left",
