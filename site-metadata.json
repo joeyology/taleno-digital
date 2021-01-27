@@ -39,7 +39,7 @@
             },
             {
                 "label": "About Us",
-                "url": "lorem-ipsum",
+                "url": "https://taleno.digital/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
