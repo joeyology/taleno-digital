@@ -1,13 +1,12 @@
 ---
 title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
+subtitle: ''
 image: ''
-image_alt: Team members in a conference room
+image_alt: ''
 template: page
-meta_title: ''
-meta_description: ''
-canonical_url: ''
+meta_title: Taleno About Us
+meta_description: Taleno Data Analysis Services Vision Mission Partners Team
+canonical_url: https://taleno.digital/about
 no_index: false
 
 ---
@@ -19,7 +18,7 @@ no_index: false
 
 #### To provide cost savings for the data analytics effort of your business.
 
-#### To add value by providing you quality business insights & analytics. 
+#### To add value by providing you quality business insights & analytics.
 
 # Our Partners
 
@@ -29,4 +28,6 @@ no_index: false
 
 ![Data Architect](/images/joeyology.png "Joey Taleno")
 
-Joey Taleno, Data Architect
+#### Jose Mari Taleño, Data Architect
+
+With 10 years of solid experience in Business Intelligence (buzzword in my generation), I am now ready to help businesses in their Data Analytics journey.
