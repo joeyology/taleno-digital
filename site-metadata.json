@@ -102,7 +102,7 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Contact",
+                        "label": "Contact Us",
                         "url": "/contact",
                         "style": "link"
                     }
