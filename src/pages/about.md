@@ -10,21 +10,21 @@ canonical_url: https://taleno.digital/about
 no_index: false
 
 ---
-# Our Vision
+## Our Vision
 
 #### To be an indispensable data analytics business partner.
 
-# Our Mission
+## Our Mission
 
 #### To provide cost savings for the data analytics effort of your business.
 
 #### To add value by providing you quality business insights & analytics.
 
-# Our Partners
+## Our Partners
 
 #### We are now in the works to be an official partner of Matillion, Snowflake and Tableau.
 
-# The Team
+## The Team
 
 ![Data Architect](/images/joeyology.png "Joey Taleno")
 
