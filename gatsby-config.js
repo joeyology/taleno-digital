@@ -28,12 +28,6 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        },
-        {
-            resolve: `gatsby-plugin-google-gtag`,
-            options: {
-                trackingId: 'G-R97YGGKFF4'
-            }
         }
     ]
 };
