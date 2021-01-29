@@ -7,6 +7,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
+        `gatsby-plugin-twitter`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -27,6 +28,12 @@ module.exports = {
             options: {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
+            }
+        },
+        {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                trackingId: 'G-R97YGGKFF4'
             }
         }
     ]
