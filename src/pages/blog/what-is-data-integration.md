@@ -1,18 +1,24 @@
 ---
 template: post
 title: What is Data Integration?
-subtitle: What is Data Integration?
-date: 2021-01-25T16:00:00Z
+subtitle: Data Integration in a nutshell (based from my own experience)
+date: 2021-01-25T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
-excerpt: What is Data Integration?
+excerpt: Data integration is a process of data ingestion then data transformation
+  or in technical terms, it is also known as ELT (extract, load & transform).
 image: "/images/franki-chamaki-1k6iqsqbizi-unsplash.jpg"
 image_alt: What is Data Integration?
 thumb_image: "/images/franki-chamaki-1k6iqsqbizi-unsplash.jpg"
 thumb_image_alt: Photo by Franki Chamaki on Unsplash
 meta_title: What is Data Integration?
-meta_description: What is Data Integration?
-canonical_url: ''
+meta_description: Data integration is a process of data ingestion then data transformation
+  or in technical terms, it is also known as ELT (extract, load & transform).
+canonical_url: https://taleno.digital/blog/what-is-data-integration
 no_index: false
 
 ---
 Photo by [Franki Chamaki](https://unsplash.com/@franki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data-silo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+### In a nutshell (based from my own experience)
+
+Data integration is a process of data ingestion then data transformation or in technical terms, it is also known as ELT (extract, load & transform). Though nowadays, some still refer to data integration as ETL (extract, transform & load) because that's how it was done back in the day (due to expensive data warehouse).
