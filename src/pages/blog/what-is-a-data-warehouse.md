@@ -7,7 +7,7 @@ author: src/data/authors/john-doe.yaml
 excerpt: Data Warehouse is basically a database or a storage of data. However, because
   a data warehouse is designed mainly for analytical purposes, it must be fast and
   scalable.
-image: "/images/tobias-fischer-pkbzaheg2ng-unsplash.jpg"
+image: "/images/tobias-fischer-pkbzaheg2ng-unsplash-1.jpg"
 image_alt: What is a Data Warehouse?
 thumb_image: "/images/tobias-fischer-pkbzaheg2ng-unsplash.jpg"
 thumb_image_alt: Photo by Tobias Fischer on Unsplash
