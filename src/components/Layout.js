@@ -50,8 +50,8 @@ export default class Body extends React.Component {
                     <script type="text/javascript">
                     {`
                         var addthis_share = {
-                            url: "${data.site.siteMetadata.siteUrl}${slug}",
-                            title: "${title.split('|')[0].trim()}",
+                            url: "${pageContext.site.siteMetadata.domain}${slug}",
+                            title: "${pageContext.site.siteMetadata.title.split('|')[0].trim()}",
                             passthrough : {
                                 twitter: {
                                     via: "talenodigital",
