@@ -160,7 +160,7 @@
                 "type": "footer_form",
                 "template": "footer_form",
                 "title": "Subscribe",
-                "content": "Stay up to date with our latest announcements.\n",
+                "content": "Stay up to date with our latest developments.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
