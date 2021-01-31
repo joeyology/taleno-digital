@@ -45,7 +45,26 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
+
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
+
+                    <script type="text/javascript">
+                    {`
+                        var addthis_share = {
+                            url: "${_.get(this.props, 'pageContext.frontmatter.canonical_url', null)}",
+                            title: "${_.get(this.props, 'pageContext.frontmatter.title', null)}",
+                            description: "${_.get(this.props, 'pageContext.frontmatter.excerpt', null)}",
+                            passthrough : {
+                                twitter: {
+                                    via: "talenodigital",
+                                    hashtags: "data,analytics"
+                                }
+                            },
+                            media: "${_.get(this.props, 'pageContext.frontmatter.image', null)}"
+                        }
+                    `}
+                    </script>
+
                 </Helmet>
                 <div id="page" className="site">
                   <Header {...this.props} />
