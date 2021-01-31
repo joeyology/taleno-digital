@@ -6,7 +6,7 @@ date: 2021-01-25T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
 excerpt: Data integration is a process of data ingestion then data transformation
   or in technical terms, it is also known as ELT (extract, load & transform).
-image: "/images/lars-kienle-ilxx7xnbrf8-unsplash.jpg"
+image: "/images/lars-kienle-ilxx7xnbrf8-unsplash-1.jpg"
 image_alt: What is Data Integration?
 thumb_image: "/images/lars-kienle-ilxx7xnbrf8-unsplash.jpg"
 thumb_image_alt: Photo by Lars Kienle on Unsplash
