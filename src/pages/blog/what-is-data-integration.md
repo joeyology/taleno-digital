@@ -1,7 +1,7 @@
 ---
 template: post
 title: What is Data Integration?
-subtitle: Data Integration in a nutshell (based from my own experience)
+subtitle: Data Integration (based from my experience)
 date: 2021-01-25T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
 excerpt: Data integration is a process of data ingestion then data transformation
