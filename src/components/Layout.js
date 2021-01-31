@@ -46,13 +46,7 @@ export default class Body extends React.Component {
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
 
-                    <meta name="twitter:card" content="summary_large_image" />
-                    <meta name="twitter:description" content={_.get(this.props, 'pageContext.frontmatter.excerpt')} />
-                    <meta name="twitter:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
-                    <meta name="twitter:site" content="https://taleno.digital" />
-                    <meta name="twitter:image" content={'https://taleno.digital' + _.get(this.props, 'pageContext.frontmatter.content_img_path')} />
-                    <meta name="twitter:creator" content="@talenodigital" />
-
+                    
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
 
                     <script type="text/javascript">
@@ -67,7 +61,7 @@ export default class Body extends React.Component {
                                     hashtags: "data,analytics"
                                 }
                             },
-                            media: "${_.get(this.props, 'pageContext.frontmatter.content_img_path', null)}"
+                            media: "${_.get(this.props, 'pageContext.frontmatter.thumb_image', null)}"
                         }
                     `}
                     </script>
