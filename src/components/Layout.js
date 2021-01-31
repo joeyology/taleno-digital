@@ -63,7 +63,7 @@ export default class Body extends React.Component {
                                     hashtags: "data,analytics"
                                 }
                             },
-                            media: "${'https://taleno.digital' + _.get(this.props, 'pageContext.frontmatter.thumb_image', null)}"
+                            media: "${_.get(this.props, 'pageContext.frontmatter.image', null)}"
                         }
                     `}
                     </script>
