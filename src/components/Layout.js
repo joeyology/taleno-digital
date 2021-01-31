@@ -50,15 +50,16 @@ export default class Body extends React.Component {
                     <script type="text/javascript">
                     {`
                         var addthis_share = {
-                            url: "${pageContext.site.siteMetadata.domain}${slug}",
-                            title: "${pageContext.site.siteMetadata.title.split('|')[0].trim()}",
+                            url: "${_.get(this.props, 'pageContext.frontmatter.canonical_url', null)}",
+                            title: "${_.get(this.props, 'pageContext.frontmatter.title', null)}",
+                            description: "${_.get(this.props, 'pageContext.frontmatter.excerpt', null)}",
                             passthrough : {
                                 twitter: {
                                     via: "talenodigital",
                                     hashtags: "data,analytics"
                                 }
                             },
-                            media: "${twitterCardImage}"
+                            media: "${_.get(this.props, 'pageContext.frontmatter.content_img_path', null)}"
                         }
                     `}
                     </script>
