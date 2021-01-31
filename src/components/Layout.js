@@ -47,6 +47,7 @@ export default class Body extends React.Component {
                     )}
 
                     
+
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
 
                     <script type="text/javascript">
@@ -61,7 +62,7 @@ export default class Body extends React.Component {
                                     hashtags: "data,analytics"
                                 }
                             },
-                            media: "${_.get(this.props, 'pageContext.frontmatter.thumb_image', null)}"
+                            media: "${'https://taleno.digital' + _.get(this.props, 'pageContext.frontmatter.thumb_image', null)}"
                         }
                     `}
                     </script>
