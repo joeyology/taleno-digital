@@ -46,9 +46,6 @@ export default class Body extends React.Component {
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
 
-                    <meta name="twitter:card" content="summary_large_image" />
-                    
-
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
 
                     <script type="text/javascript">
