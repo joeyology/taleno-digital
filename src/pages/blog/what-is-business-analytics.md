@@ -2,7 +2,7 @@
 template: post
 title: What is Business Analytics?
 subtitle: What is Business Analytics?
-date: 2021-01-25T16:00:00Z
+date: 2021-01-27T16:00:00Z
 author: src/data/authors/john-doe.yaml
 excerpt: What is Business Analytics?
 image: "/images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg"
