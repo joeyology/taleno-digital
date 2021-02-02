@@ -28,6 +28,15 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
+        },
+        {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                // You can add multiple tracking ids and a pageview event will be fired for all of them.
+                trackingIds: [
+                "G-R97YGGKFF4", // Google Analytics / GA
+                ],
+            }
         }
     ]
 };
