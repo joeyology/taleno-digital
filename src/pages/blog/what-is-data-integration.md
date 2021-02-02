@@ -21,4 +21,10 @@ Photo by [Lars Kienle](https://unsplash.com/@larskienle?utm_source=unsplash&utm_
 
 ### In a nutshell
 
-Data integration is a process of data ingestion then data transformation or in technical terms, it is also known as ELT (extract, load & transform). Though nowadays, some still refer to data integration as ETL (extract, transform & load) because that's how it was done back in the day (due to expensive data warehouse).
+Data integration is a process of data ingestion then data transformation or in technical terms, it is also known as ELT (extract, load & transform). Though nowadays, some still refer to data integration as ETL (extract, transform & load) because that's how it was done back in the day (due to expensive hardware to build a data warehouse).
+
+### Why do we need Data Integration?
+
+![](/images/2021-02-02_10-52-24.png)
+
+Because data sources are scattered everywhere. From the company's Google Drive down to the employee's work laptop, we can find data. And even though systems are available, it is not sufficient enough to produce valuable business insights. At one point or another, we need to connect data points from different data sources to find answers to the business' questions.
