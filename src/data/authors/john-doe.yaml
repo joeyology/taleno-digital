@@ -1,7 +1,8 @@
----
-first_name: 'Joey '
+first_name: Joey
 last_name: Taleno
-bio: With 10 years of solid experience in Business Intelligence (buzzword in my generation),
-  I am now ready to help businesses in their Data Analytics journey.
-photo: "/images/joeyology.png"
+bio: >-
+  With 10 years of solid experience in Business Intelligence (buzzword in my
+  generation), I am now ready to help businesses in their Data Analytics
+  journey.
+photo: /images/joeyology.png
 type: person
