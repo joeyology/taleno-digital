@@ -25,5 +25,3 @@ Photo by [Tobias Fischer](https://unsplash.com/@tofi?utm_source=unsplash&utm_med
 Data Warehouse is basically a database or a storage of data. However, because a data warehouse is designed mainly for analytical purposes, it must be fast and scalable. That's why it's a bit different from the transactional databases.
 
 ### Why do we need a Data Warehouse?
-
-![](/images/blog-what-is-a-data-warehouse.gif)
