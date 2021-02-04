@@ -26,4 +26,6 @@ Data Warehouse is basically a database or a storage of data. However, because a 
 
 ### Why do we need a Data Warehouse?
 
+![](/images/blog-what-is-a-data-warehouse-1.gif)
+
 Because a typical cloud data warehouse today has a columnar based structure for storing the data that makes it reading massive amount of data super fast. Unlike the row based structure of a typical database management system that is designed primarily for transactional purposes.
