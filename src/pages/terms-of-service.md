@@ -1,6 +1,14 @@
 ---
 title: Terms of Service
 template: page
+subtitle: ''
+image: ''
+image_alt: Terms of Service
+meta_title: Terms of Service
+meta_description: Terms of Service
+canonical_url: ''
+no_index: false
+
 ---
 Last updated: 01/26/2021
 
