@@ -7,9 +7,9 @@ author: src/data/authors/john-doe.yaml
 excerpt: Business Analytics is the art of being able to discover insights from data
   along with the business questions resulting in an action based from the recommendation
   or famously known as data-driven decision making.
-image: "/images/adeolu-eletu-unrkg2jh1j0-unsplash-1.jpg"
+image: "/images/undraw_analytics_re_dkf8.svg"
 image_alt: What is Business Analytics?
-thumb_image: "/images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg"
+thumb_image: "/images/undraw_analytics_re_dkf8.svg"
 thumb_image_alt: Photo by Adeolu Eletu on Unsplash
 meta_title: What is Business Analytics?
 meta_description: Business Analytics, Business Insights, Business Questions, Actionable,
