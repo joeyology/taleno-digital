@@ -1,6 +1,14 @@
 ---
 title: Privacy Policy
 template: page
+subtitle: ''
+image: ''
+image_alt: Privacy Policy
+meta_title: Privacy Policy
+meta_description: Privacy Policy
+canonical_url: ''
+no_index: false
+
 ---
 Effective date: 01/26/2021
 
