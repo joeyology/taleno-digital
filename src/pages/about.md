@@ -1,34 +1,32 @@
 ---
 title: About Us
 subtitle: ''
-image: "/images/franki-chamaki-1k6iqsqbizi-unsplash.jpg"
-image_alt: Photo by Franki Chamaki
+image: "/images/undraw_team_spirit_hrr4.svg"
+image_alt: About Us
 template: page
-meta_title: Taleno About Us
-meta_description: Taleno Data Analysis Services Vision Mission Partners Team
+meta_title: About Us
+meta_description: Taleno Data Analysis Services, Vision, Mission, Partners, Team
 canonical_url: https://taleno.digital/about
 no_index: false
 
 ---
-Photo by [Franki Chamaki](https://unsplash.com/@franki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data-silo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+### Our Vision
 
-## Our Vision
+##### To be an indispensable data analytics business partner.
 
-#### To be an indispensable data analytics business partner.
+### Our Mission
 
-## Our Mission
+##### To provide cost savings for the data analytics effort of your business.
 
-#### To provide cost savings for the data analytics effort of your business.
+##### To add value by providing you quality business insights & analytics.
 
-#### To add value by providing you quality business insights & analytics.
+### Our Partners
 
-## Our Partners
+##### We are now in the works to be an official partner of Matillion, Snowflake and Tableau.
 
-#### We are now in the works to be an official partner of Matillion, Snowflake and Tableau.
+### The Team
 
-## The Team
-
-![Data Architect](/images/joeyology.png "Joey Taleno")
+![](/images/undraw_team_ih79.svg)
 
 #### Jose Mari Taleño, Data Architect
 
