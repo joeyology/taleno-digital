@@ -4,9 +4,9 @@ title: What is Business Analytics?
 subtitle: Business Analytics (based from my experience)
 date: 2021-01-27T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
-excerpt: 'Business Analytics is the art of being able to discover insights from data
+excerpt: Business Analytics is the art of being able to discover insights from data
   along with the business questions resulting in an action based from the recommendation
-  - data-driven decision making. '
+  or famously known as data-driven decision making.
 image: "/images/adeolu-eletu-unrkg2jh1j0-unsplash-1.jpg"
 image_alt: What is Business Analytics?
 thumb_image: "/images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg"
@@ -22,6 +22,8 @@ Photo by [Adeolu Eletu](https://unsplash.com/@adeolueletu?utm_source=unsplash&ut
 
 ### In a nutshell
 
-Business Analytics is the art of being able to discover insights from data along with the business questions resulting in an action based from the recommendation - data-driven decision making.
+Business Analytics is the art of being able to discover insights from data along with the business questions resulting in an action based from the recommendation or famously known as data-driven decision making.
 
 ### Why do we need Business Analytics?
+
+![](/images/undraw_business_analytics_re_tfh3.svg)
