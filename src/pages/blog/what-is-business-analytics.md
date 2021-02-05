@@ -10,7 +10,7 @@ excerpt: Business Analytics is the art of being able to discover insights from d
 image: "/images/undraw_analytics_re_dkf8.svg"
 image_alt: What is Business Analytics?
 thumb_image: "/images/undraw_analytics_re_dkf8.svg"
-thumb_image_alt: Photo by Adeolu Eletu on Unsplash
+thumb_image_alt: What is Business Analytics?
 meta_title: What is Business Analytics?
 meta_description: Business Analytics, Business Insights, Business Questions, Actionable,
   Recommendation, Data Driven, Decision Making
@@ -18,12 +18,8 @@ canonical_url: https://taleno.digital/blog/what-is-business-analytics
 no_index: false
 
 ---
-Photo by [Adeolu Eletu](https://unsplash.com/@adeolueletu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 ### In a nutshell
 
 Business Analytics is the art of being able to discover insights from data along with the business questions resulting in an action based from the recommendation or famously known as data-driven decision making.
 
 ### Why do we need Business Analytics?
-
-![](/images/undraw_business_analytics_re_tfh3.svg)
