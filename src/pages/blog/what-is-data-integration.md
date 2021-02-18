@@ -2,26 +2,31 @@
 template: post
 title: What is Data Integration?
 subtitle: Data Integration (based from my experience)
-date: 2021-01-25T16:00:00.000+00:00
+date: '2021-01-25T16:00:00.000+00:00'
 author: src/data/authors/john-doe.yaml
-excerpt: Data integration is a process of data ingestion then data transformation
-  or in technical terms, it is also known as ELT (extract, load & transform).
-image: "/images/undraw_data_processing_yrrv.svg"
+excerpt: >-
+  Data integration is a process of data ingestion then data transformation or in
+  technical terms, it is also known as ELT (extract, load & transform).
+image: /images/undraw_data_processing_yrrv.svg
 image_alt: What is Data Integration?
-thumb_image: "/images/undraw_data_processing_yrrv.svg"
+thumb_image: /images/undraw_data_processing_yrrv.svg
 thumb_image_alt: What is Data Integration?
 seo:
   title: What is Data Integration?
-  description: Data Integration, Data Ingestion, Data Transformation, ELT, ETL
+  description: 'Data Integration, Data Ingestion, Data Transformation, ELT, ETL'
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
     - name: 'og:type'
       value: website
       keyName: property
-canonical_url: https://taleno.digital/blog/what-is-data-integration
+    - name: 'og:image'
+      value: >-
+        https://cdn.forestry.io/res2/WhWGM40BCbgmlHAfxDOSsDfzThFZ9OHS8I0OU7tlTUA/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVFV4cVpWRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNDgx/MWMzNGIwY2U2M2Vj/ODZhOTk5ODFkZDFm/OTAzZDc5YmEzMjBh/Mi91bmRyYXdfZGF0/YV9wcm9jZXNzaW5n/X3lycnYuc3Zn
+      keyName: property
+      relativeUrl: false
+canonical_url: 'https://taleno.digital/blog/what-is-data-integration'
 no_index: false
-
 ---
 ### In a nutshell
 
