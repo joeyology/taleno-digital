@@ -46,14 +46,6 @@ fields:
   label: Image alt text (blog feed)
   description: The alt text of the blog feed image
 - type: text
-  name: meta_title
-  label: Meta title
-  description: The meta title of the post (recommended length is 50–60 characters)
-- type: text
-  name: meta_description
-  label: Meta description
-  description: The meta description of the post (recommended length is 50–160 characters)
-- type: text
   name: canonical_url
   label: Canonical URL
   description: The canonical url of the post
@@ -69,6 +61,14 @@ fields:
   default: post
   config:
     required: true
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
 pages:
 - src/pages/blog/entrepreneurial-mindset.md
 - src/pages/blog/what-is-a-data-warehouse.md

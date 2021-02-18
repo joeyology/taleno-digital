@@ -11,9 +11,16 @@ image: "/images/undraw_server_q2pb.svg"
 image_alt: What is a Data Warehouse?
 thumb_image: "/images/undraw_server_q2pb.svg"
 thumb_image_alt: What is a Data Warehouse?
-meta_title: What is a Data Warehouse?
-meta_description: Data Warehouse, Database, Data Storage, Analytics, Fast, Scalable,
-  Reliable, Secure
+seo:
+  title: What is a Data Warehouse?
+  description: Data Warehouse, Database, Data Storage, Analytics, Fast, Scalable,
+    Reliable, Secure
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/blog/what-is-a-data-warehouse
 no_index: false
 

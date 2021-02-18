@@ -11,9 +11,16 @@ image: "/images/undraw_analytics_re_dkf8.svg"
 image_alt: What is Business Analytics?
 thumb_image: "/images/undraw_analytics_re_dkf8.svg"
 thumb_image_alt: What is Business Analytics?
-meta_title: What is Business Analytics?
-meta_description: Business Analytics, Business Insights, Business Questions, Actionable,
-  Recommendation, Data Driven, Decision Making
+seo:
+  title: What is Business Analytics?
+  description: Business Analytics, Business Insights, Business Questions, Actionable,
+    Recommendation, Data Driven, Decision Making
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/blog/what-is-business-analytics
 no_index: false
 

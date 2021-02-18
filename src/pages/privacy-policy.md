@@ -4,8 +4,15 @@ template: page
 subtitle: ''
 image: ''
 image_alt: Privacy Policy
-meta_title: Privacy Policy
-meta_description: Privacy Policy
+seo:
+  title: Privacy Policy
+  description: Privacy Policy
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: ''
 no_index: false
 

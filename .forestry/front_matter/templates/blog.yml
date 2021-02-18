@@ -9,14 +9,6 @@ fields:
   config:
     required: true
 - type: text
-  name: meta_title
-  label: Meta Title
-  description: The meta title of the page (recommended length is 50–60 characters)
-- type: text
-  name: meta_description
-  label: Meta Description
-  description: The meta description of the page (recommended length is 50–160 characters)
-- type: text
   name: canonical_url
   label: Canonical URL
   description: The canonical url of the page
@@ -32,6 +24,14 @@ fields:
   default: blog
   config:
     required: true
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
 pages:
 - src/pages/blog/index.md
 - src/pages/blog/index.md

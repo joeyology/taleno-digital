@@ -9,8 +9,15 @@ image: "/images/undraw_launching_125y-1.svg"
 image_alt: Entrepreneurial Mindset
 thumb_image: "/images/undraw_launching_125y-1.svg"
 thumb_image_alt: Entrepreneurial Mindset
-meta_title: Entrepreneurial Mindset
-meta_description: Entrepreneurial Mindset
+seo:
+  title: Entrepreneurial Mindset
+  description: Entrepreneurial Mindset
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/blog/entrepreneurial-mindset
 no_index: false
 

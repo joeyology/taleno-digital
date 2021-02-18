@@ -4,8 +4,15 @@ template: page
 subtitle: ''
 image: ''
 image_alt: Terms of Service
-meta_title: Terms of Service
-meta_description: Terms of Service
+seo:
+  title: Terms of Service
+  description: Terms of Service
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: ''
 no_index: false
 
