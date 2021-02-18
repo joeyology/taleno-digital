@@ -1,9 +1,16 @@
 ---
 title: Home
-meta_title: Your Business Partner for Data Analytics
-meta_description: >-
-  Helping you build an end-to-end cloud data solution so you can focus on making
-  data-driven decisions for your business.
+seo:
+  title: Your Business Partner for Data Analytics
+  description: >-
+    Helping you build an end-to-end cloud data solution so you can focus on making
+    data-driven decisions for your business.
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 sections:
   - type: section_hero
     template: section_hero

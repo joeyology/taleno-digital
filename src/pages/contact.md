@@ -65,8 +65,15 @@ sections:
   form_action: ''
   hide_labels: false
 template: landing
-meta_title: Contact
-meta_description: Taleno Data Analysis Services, Contact
+seo:
+  title: Contact
+  description: Taleno Data Analysis Services, Contact
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/contact
 no_index: false
 

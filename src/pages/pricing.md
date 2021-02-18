@@ -96,8 +96,15 @@ sections:
 
 '
 template: landing
-meta_title: Pricing
-meta_description: Taleno Data Analysis Services, Pricing
+seo:
+  title: Pricing
+  description: Taleno Data Analysis Services, Pricing
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/pricing
 no_index: false
 

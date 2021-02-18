@@ -10,8 +10,15 @@ image: "/images/undraw_data_processing_yrrv.svg"
 image_alt: What is Data Integration?
 thumb_image: "/images/undraw_data_processing_yrrv.svg"
 thumb_image_alt: What is Data Integration?
-meta_title: What is Data Integration?
-meta_description: Data Integration, Data Ingestion, Data Transformation, ELT, ETL
+seo:
+  title: What is Data Integration?
+  description: Data Integration, Data Ingestion, Data Transformation, ELT, ETL
+  type: stackbit_page_meta
+  template: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
 canonical_url: https://taleno.digital/blog/what-is-data-integration
 no_index: false
 
