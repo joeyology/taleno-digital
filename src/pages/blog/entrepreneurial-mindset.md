@@ -41,6 +41,10 @@ seo:
       value: Entrepreneurial Mindset | Taleno.Digital
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Entrepreneurial Mindset | Taleno.Digital
+      keyName: name
+      relativeUrl: false
   robots:
     - follow
     - index
