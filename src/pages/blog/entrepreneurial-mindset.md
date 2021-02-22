@@ -49,6 +49,10 @@ seo:
       value: /images/undraw_launching_125y.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/undraw_launching_125y.png
+      keyName: property
+      relativeUrl: true
   robots:
     - follow
     - index
