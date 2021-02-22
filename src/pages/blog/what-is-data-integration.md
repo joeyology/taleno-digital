@@ -41,7 +41,10 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
-      value: Test Description
+      value: >-
+        Data integration is a process of data ingestion then data transformation
+        or in technical terms, it is also known as ELT (extract, load &
+        transform).
       keyName: name
       relativeUrl: false
 canonical_url: 'https://taleno.digital/blog/what-is-data-integration'
