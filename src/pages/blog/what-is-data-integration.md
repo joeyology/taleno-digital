@@ -26,7 +26,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: Test Title
+      value: What is Data Integration?
       keyName: property
       relativeUrl: false
     - name: 'og:description'
