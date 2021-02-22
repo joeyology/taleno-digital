@@ -15,7 +15,9 @@ thumb_image: /images/undraw_launching_125y.svg
 thumb_image_alt: Entrepreneurial Mindset
 seo:
   title: Entrepreneurial Mindset | Taleno.Digital
-  description: Entrepreneurial Mindset
+  description: >-
+    Having an Entrepreneurial Mindset in a corporate setting is being able to
+    think like a business man even if currently employed.
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
