@@ -15,8 +15,9 @@ thumb_image_alt: What is Business Analytics?
 seo:
   title: What is Business Analytics? | Taleno.Digital
   description: >-
-    Business Analytics, Business Insights, Business Questions, Actionable,
-    Recommendation, Data Driven, Decision Making
+    Business Analytics is the art of being able to discover insights from data
+    along with business questions resulting in an action based from the
+    recommendation.
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
