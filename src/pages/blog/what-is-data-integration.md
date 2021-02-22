@@ -13,7 +13,9 @@ thumb_image: /images/undraw_data_processing_yrrv.svg
 thumb_image_alt: What is Data Integration?
 seo:
   title: What is Data Integration?
-  description: 'Data Integration, Data Ingestion, Data Transformation, ELT, ETL'
+  description: >-
+    Data integration is a process of data ingestion then data transformation or
+    in technical terms, it is also known as ELT (extract, load & transform).
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
