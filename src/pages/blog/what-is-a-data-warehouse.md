@@ -46,6 +46,10 @@ seo:
         scalable.
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: What is a Data Warehouse? | Taleno.Digital
+      keyName: property
+      relativeUrl: false
   robots:
     - follow
     - index
