@@ -37,6 +37,10 @@ seo:
         to think like a business man even if currently employed.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Entrepreneurial Mindset | Taleno.Digital
+      keyName: property
+      relativeUrl: false
   robots:
     - follow
     - index
