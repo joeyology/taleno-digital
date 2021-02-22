@@ -23,7 +23,8 @@ seo:
     keyName: property
     relativeUrl: false
   robots:
-  - all
+  - follow
+  - index
 canonical_url: https://taleno.digital/blog/entrepreneurial-mindset
 no_index: false
 
