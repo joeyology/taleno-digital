@@ -37,6 +37,10 @@ seo:
       value: Test Title
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Test Description
+      keyName: name
+      relativeUrl: false
 canonical_url: 'https://taleno.digital/blog/what-is-data-integration'
 no_index: false
 ---
