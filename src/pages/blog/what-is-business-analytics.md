@@ -24,6 +24,10 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
+    - name: 'og:image'
+      value: /images/undraw_Analytics_re_dkf8.png
+      keyName: property
+      relativeUrl: true
 canonical_url: 'https://taleno.digital/blog/what-is-business-analytics'
 no_index: false
 ---
