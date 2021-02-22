@@ -13,7 +13,7 @@ seo:
       keyName: property
     - name: 'og:image'
       value: >-
-        https://cdn.forestry.io/res2/PBKdkUnkEtjnrPkf70yEiEoK5-BEOzeMkIMDKl8yYmg/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUVN0aFNVRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMWUw/NDUzZjRmZjNlYTlj/ZDVlMjIyNjQ5ZjJl/YWM3MGYxZjlmZGUw/Yi9pbWFnZW9ubGlu/ZS1jby13aGl0ZWJh/Y2tncm91bmRyZW1v/dmVkJTIwKDI0KS5w/bmc
+        https://cdn.forestry.io/res2/Y_iB1ImtqTiaps9HgofkbadBD2sOzEoPecgFWR6x6pE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU0c4NE5tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNTYx/NjRiODExYjc4ZGE1/OGJiNDUzNTM1YmFi/OWM5MDA0NjdlY2M4/Yi8yLnBuZw
       keyName: property
       relativeUrl: false
 sections:
