@@ -13,7 +13,7 @@ image_alt: What is a Data Warehouse?
 thumb_image: /images/undraw_server_q2pb.svg
 thumb_image_alt: What is a Data Warehouse?
 seo:
-  title: What is a Data Warehouse?
+  title: What is a Data Warehouse? | Taleno.Digital
   description: >-
     Data Warehouse is a database or a storage of data. However, because a data
     warehouse is designed for analytical purposes, it must be fast and scalable.
