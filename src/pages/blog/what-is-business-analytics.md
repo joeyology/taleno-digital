@@ -37,6 +37,10 @@ seo:
       value: What is Business Analytics? | Taleno.Digital
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: What is Business Analytics? | Taleno.Digital
+      keyName: name
+      relativeUrl: false
   robots:
     - follow
     - index
