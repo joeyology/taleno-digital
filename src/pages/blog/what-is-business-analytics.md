@@ -26,7 +26,9 @@ seo:
     value: "/images/undraw_Analytics_re_dkf8.png"
     keyName: property
     relativeUrl: true
-  robots: []
+  robots:
+  - follow
+  - index
 canonical_url: https://taleno.digital/blog/what-is-business-analytics
 no_index: false
 
