@@ -33,6 +33,10 @@ seo:
       value: /images/undraw_Analytics_re_dkf8.png
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: What is Business Analytics? | Taleno.Digital
+      keyName: property
+      relativeUrl: false
   robots:
     - follow
     - index
