@@ -37,7 +37,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Test Title
+      value: What is Data Integration? | Taleno.Digital
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
