@@ -50,6 +50,10 @@ seo:
       value: What is a Data Warehouse? | Taleno.Digital
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/undraw_server_q2pb.png
+      keyName: property
+      relativeUrl: true
   robots:
     - follow
     - index
