@@ -12,7 +12,7 @@ image_alt: What is Data Integration?
 thumb_image: /images/undraw_data_processing_yrrv.svg
 thumb_image_alt: What is Data Integration?
 seo:
-  title: 'What is Data Integration? '
+  title: What is Data Integration? | Taleno.Digital
   description: >-
     Data integration is a process of data ingestion then data transformation or
     in technical terms, it is also known as ELT (extract, load & transform).
