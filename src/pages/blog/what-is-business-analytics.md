@@ -29,6 +29,10 @@ seo:
       value: /images/undraw_Analytics_re_dkf8.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/undraw_Analytics_re_dkf8.png
+      keyName: property
+      relativeUrl: true
   robots:
     - follow
     - index
