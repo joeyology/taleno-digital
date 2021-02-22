@@ -45,6 +45,10 @@ seo:
       value: Entrepreneurial Mindset | Taleno.Digital
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/undraw_launching_125y.png
+      keyName: property
+      relativeUrl: true
   robots:
     - follow
     - index
