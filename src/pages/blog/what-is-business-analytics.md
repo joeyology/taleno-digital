@@ -41,6 +41,13 @@ seo:
       value: What is Business Analytics? | Taleno.Digital
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Business Analytics is the art of being able to discover insights from
+        data along with business questions resulting in an action based from the
+        recommendation.
+      keyName: property
+      relativeUrl: false
   robots:
     - follow
     - index
