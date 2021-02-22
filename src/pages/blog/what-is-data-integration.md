@@ -30,7 +30,10 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:description'
-      value: Test Description
+      value: >-
+        Data integration is a process of data ingestion then data transformation
+        or in technical terms, it is also known as ELT (extract, load &
+        transform).
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
