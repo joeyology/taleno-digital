@@ -29,6 +29,10 @@ seo:
       value: Test Title
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: Test Description
+      keyName: property
+      relativeUrl: false
 canonical_url: 'https://taleno.digital/blog/what-is-data-integration'
 no_index: false
 ---
