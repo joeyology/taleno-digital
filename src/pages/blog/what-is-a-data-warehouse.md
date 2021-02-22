@@ -32,6 +32,13 @@ seo:
       value: What is a Data Warehouse? | Taleno.Digital
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Data Warehouse is a database or a storage of data. However, because a
+        data warehouse is designed for analytical purposes, it must be fast and
+        scalable.
+      keyName: name
+      relativeUrl: false
   robots:
     - follow
     - index
