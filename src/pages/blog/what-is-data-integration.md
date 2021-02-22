@@ -27,7 +27,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:title'
-      value: What is Data Integration?
+      value: What is Data Integration? | Taleno.Digital
       keyName: property
       relativeUrl: false
     - name: 'og:description'
