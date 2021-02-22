@@ -21,10 +21,9 @@ seo:
       value: article
       keyName: property
     - name: 'og:image'
-      value: >-
-        https://cdn.forestry.io/res2/WhWGM40BCbgmlHAfxDOSsDfzThFZ9OHS8I0OU7tlTUA/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVFV4cVpWRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNDgx/MWMzNGIwY2U2M2Vj/ODZhOTk5ODFkZDFm/OTAzZDc5YmEzMjBh/Mi91bmRyYXdfZGF0/YV9wcm9jZXNzaW5n/X3lycnYuc3Zn
+      value: /images/undraw_data_processing_yrrv.png
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
     - name: 'og:title'
       value: What is Data Integration? | Taleno.Digital
       keyName: property
