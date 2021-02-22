@@ -15,8 +15,8 @@ thumb_image_alt: What is a Data Warehouse?
 seo:
   title: What is a Data Warehouse?
   description: >-
-    Data Warehouse, Database, Data Storage, Analytics, Fast, Scalable, Reliable,
-    Secure
+    Data Warehouse is a database or a storage of data. However, because a data
+    warehouse is designed for analytical purposes, it must be fast and scalable.
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
