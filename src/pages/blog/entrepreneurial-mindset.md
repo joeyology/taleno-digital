@@ -22,7 +22,7 @@ seo:
   template: stackbit_page_meta
   extra:
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
       relativeUrl: false
     - name: 'og:description'
