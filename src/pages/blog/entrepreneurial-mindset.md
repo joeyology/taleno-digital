@@ -2,32 +2,32 @@
 template: post
 title: Entrepreneurial Mindset
 subtitle: Entrepreneurial Mindset (as far as I remember)
-date: 2021-02-01T16:00:00.000+00:00
+date: '2021-02-01T16:00:00.000+00:00'
 author: src/data/authors/john-doe.yaml
-excerpt: Having an Entrepreneurial Mindset in a corporate setting is being able to
-  think like a business man even if currently employed. In practical application,
-  it's taking that something that is really irritating at work (or the pain points)
-  and think of a solution to that particular problem.
-image: "/images/undraw_launching_125y.svg"
+excerpt: >-
+  Having an Entrepreneurial Mindset in a corporate setting is being able to
+  think like a business man even if currently employed. In practical
+  application, it's taking that something that is really irritating at work (or
+  the pain points) and think of a solution to that particular problem.
+image: /images/undraw_launching_125y.svg
 image_alt: Entrepreneurial Mindset
-thumb_image: "/images/undraw_launching_125y.svg"
+thumb_image: /images/undraw_launching_125y.svg
 thumb_image_alt: Entrepreneurial Mindset
 seo:
-  title: Entrepreneurial Mindset
+  title: Entrepreneurial Mindset | Taleno.Digital
   description: Entrepreneurial Mindset
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
-  - name: og:type
-    value: website
-    keyName: property
-    relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   robots:
-  - follow
-  - index
-canonical_url: https://taleno.digital/blog/entrepreneurial-mindset
+    - follow
+    - index
+canonical_url: 'https://taleno.digital/blog/entrepreneurial-mindset'
 no_index: false
-
 ---
 ### Context
 
