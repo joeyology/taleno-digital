@@ -25,6 +25,12 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Having an Entrepreneurial Mindset in a corporate setting is being able
+        to think like a business man even if currently employed.
+      keyName: property
+      relativeUrl: false
   robots:
     - follow
     - index
