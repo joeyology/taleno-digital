@@ -72,7 +72,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Your Business Partner in Data Analytics
+        title: Your Partner in Business Analytics
         content: >
           We also provide end-to-end consulting services to help you with your
           Data Integration, Data Warehousing and Business Analytics needs.
