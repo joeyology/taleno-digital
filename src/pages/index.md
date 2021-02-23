@@ -69,7 +69,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /pricing
+            url: 'https://seekfirst.store/'
             style: secondary
             has_icon: true
             icon: arrow-right
