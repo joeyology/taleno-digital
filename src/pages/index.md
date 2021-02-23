@@ -1,7 +1,7 @@
 ---
 title: Home
 seo:
-  title: Your Business Partner for Data Analytics
+  title: Making Software as a Service with Data Analytics and Christian Values
   description: >-
     Helping you build an end-to-end cloud data solution so you can focus on
     making data-driven decisions for your business.
