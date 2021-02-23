@@ -22,7 +22,7 @@ sections:
     section_id: hero
     content: |
       Making Software as a Service with Data Analytics and Christian Values.
-    image: /images/undraw_data_trends_b0wg.svg
+    image: /images/undraw_startup_life_2du2.svg
     image_alt: Data Analytics
     actions:
       - type: action
