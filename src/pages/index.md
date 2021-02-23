@@ -51,7 +51,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Try it
+            label: Learn more
             url: 'https://www.bibleapp.pro/'
             style: secondary
             has_icon: true
