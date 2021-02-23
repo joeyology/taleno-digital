@@ -37,7 +37,7 @@ sections:
           - No-code SaaS
           - Data Integration + Data Warehouse
           - Data Warehouse + Business Analytics
-          - Data Integration + Data Warehouse + Business Analytics
+          - null
           - null
         is_required: false
       - type: form_field
