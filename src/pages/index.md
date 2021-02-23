@@ -41,7 +41,7 @@ sections:
         title: BibleApp.Pro
         content: >
           We believe that reading the Bible and meditating on it everyday can
-          help us be prosperous and successful in life.
+          help us be prosperous and successful in all aspects of our life.
         image: /images/undraw_reading_time_gvg0 (3).svg
         image_alt: Integrate and transform your business data with less or no-code
         actions:
