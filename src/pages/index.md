@@ -86,7 +86,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: 'https://taleno.digital/blog/what-is-business-analytics/'
+            url: '#call-to-action'
             style: secondary
             has_icon: true
             icon: arrow-right
