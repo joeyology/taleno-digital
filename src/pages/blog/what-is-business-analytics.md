@@ -26,9 +26,10 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /images/undraw_Analytics_re_dkf8.png
+      value: >-
+        https://cdn.forestry.io/res2/oIgIadmbDZWVh-jSFZp_KPC7wdQGt1g9--TUHoVi0m8/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUTBKck5tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMDc2/YzZmZDU3MDA2ZDYy/NjI5NGY2ZjdhMTJh/MGZlNmFhNWYwOTE1/Yi91bmRyYXdfQW5h/bHl0aWNzX3JlX2Rr/ZjgucG5n
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:image'
       value: /images/undraw_Analytics_re_dkf8.png
       keyName: property
