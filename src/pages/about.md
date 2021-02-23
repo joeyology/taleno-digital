@@ -6,18 +6,17 @@ image_alt: About Us
 template: page
 seo:
   title: About Us
-  description: Taleno Data Analysis Services, Vision, Mission, Partners, Team
+  description: To Love God and Help People
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
-  - name: og:type
-    value: website
-    keyName: property
-    relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   robots: []
-canonical_url: https://taleno.digital/about
+canonical_url: 'https://taleno.digital/about'
 no_index: false
-
 ---
 ### Our Why's
 
