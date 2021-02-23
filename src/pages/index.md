@@ -87,17 +87,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: Start with our FREE consultation!
-    subtitle: Not sure where and how to make your business data-driven?
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: /contact
-        style: primary
   - type: section_reviews
     template: section_reviews
     section_id: reviews
@@ -141,6 +130,17 @@ sections:
           applications, he learned/understood what the business really wanted
           and he developed solutions. He is very much a team player and very
           easy to work with.
+  - type: section_cta
+    template: section_cta
+    section_id: call-to-action
+    title: Start with our FREE consultation!
+    subtitle: Not sure where and how to make your business data-driven?
+    actions:
+      - type: action
+        template: action
+        label: Get Started
+        url: /contact
+        style: primary
   - type: section_posts
     template: section_posts
     section_id: recent-posts
