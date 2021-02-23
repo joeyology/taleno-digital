@@ -35,9 +35,6 @@ sections:
     template: section_features
     section_id: services
     title: Products & Services
-    subtitle: >-
-      We also provide end-to-end services to help you with your Data
-      Integration, Data Warehousing and Business Analytics needs.
     background: gray
     features:
       - type: feature_item
