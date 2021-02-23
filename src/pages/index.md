@@ -20,8 +20,9 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    content: |
-      Making Software as a Service with Data Analytics and Christian Values.
+    content: >
+      We aim to provide valuable yet cost effective SaaS for your life and
+      business.
     image: /images/undraw_startup_life_2du2.svg
     image_alt: Data Analytics
     actions:
