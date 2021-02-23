@@ -36,8 +36,8 @@ sections:
     section_id: services
     title: Products & Services
     subtitle: >-
-      We provide end-to-end services to help you with your Data Integration,
-      Data Warehousing and Business Analytics needs.
+      We also provide end-to-end services to help you with your Data
+      Integration, Data Warehousing and Business Analytics needs.
     background: gray
     features:
       - type: feature_item
