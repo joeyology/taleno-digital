@@ -5,7 +5,7 @@ image: ''
 image_alt: About Us
 template: page
 seo:
-  title: About Us
+  title: About Us | Taleno.Digital
   description: To Love God and Help People
   type: stackbit_page_meta
   template: stackbit_page_meta
