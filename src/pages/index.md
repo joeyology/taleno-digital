@@ -31,7 +31,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: Making cost effective and value adding No-code SaaS for Data Analytics
+    title: Making No-code SaaS for Data Analytics
   - type: section_features
     template: section_features
     section_id: services
