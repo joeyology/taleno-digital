@@ -51,9 +51,10 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/undraw_data_processing_yrrv.png
+      value: >-
+        https://cdn.forestry.io/res2/-NzksaGhai069aeWCyi-PPUt3zI4pBJVZ-tiZBvSAag/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUkdKcU5rRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYjAz/YTkxMzdhMTJiNzg5/MTk4ODkwZDY0NjI0/MTE1YjQ3YzliYTk3/Mi91bmRyYXdfZGF0/YV9wcm9jZXNzaW5n/X3lycnYucG5n
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
   robots:
     - follow
     - index
