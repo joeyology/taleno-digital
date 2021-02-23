@@ -31,7 +31,8 @@
                 "type": "action",
                 "template": "action",
                 "url": "/#services",
-                "style": "link"
+                "style": "link",
+                "label": "Products & Services"
             },
             {
                 "type": "action",
