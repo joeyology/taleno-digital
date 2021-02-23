@@ -31,7 +31,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: Incubating No-code SaaS
+    title: An incubating No-code SaaS Business
   - type: section_features
     template: section_features
     section_id: services
