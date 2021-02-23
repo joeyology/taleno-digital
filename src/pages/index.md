@@ -2,7 +2,7 @@
 title: Home
 seo:
   title: Taleno.Digital
-  description: Making Software as a Service with Data Analytics and Christian Values
+  description: 'The Chick-fil-A of No-Code SaaS Community. '
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
