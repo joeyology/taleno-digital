@@ -16,6 +16,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: About Us | Taleno.Digital
+      keyName: property
+      relativeUrl: false
   robots: []
 canonical_url: 'https://taleno.digital/about'
 no_index: false
