@@ -1,21 +1,20 @@
 ---
 title: About Us
 subtitle: ''
-image: "/images/undraw_team_spirit_hrr4.svg"
+image: /images/SweetSpot.png
 image_alt: About Us
 template: page
 seo:
   title: About Us
-  description: Taleno Data Analysis Services, Vision, Mission, Partners, Team
+  description: 'Taleno Data Analysis Services, Vision, Mission, Partners, Team'
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
     - name: 'og:type'
       value: website
       keyName: property
-canonical_url: https://taleno.digital/about
+canonical_url: 'https://taleno.digital/about'
 no_index: false
-
 ---
 ### Our Vision
 
