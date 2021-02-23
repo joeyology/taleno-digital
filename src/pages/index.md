@@ -52,7 +52,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /pricing
+            url: 'https://www.bibleapp.pro/'
             style: secondary
             has_icon: true
             icon: arrow-right
