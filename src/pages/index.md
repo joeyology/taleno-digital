@@ -75,8 +75,8 @@ sections:
         template: feature_item
         title: Make data-driven decisions through business analytics
         content: >
-          We can help you get business insights and analytics powered by
-          Tableau.
+          We also provide end-to-end consulting services to help you with your
+          Data Integration, Data Warehousing and Business Analytics needs.
         image: /images/undraw_Charts_re_5qe9.svg
         image_alt: Make data-driven decisions through business analytics
         actions:
