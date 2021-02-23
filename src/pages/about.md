@@ -30,6 +30,10 @@ seo:
         Data Analytics & Christian Values
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: About Us | Taleno.Digital
+      keyName: name
+      relativeUrl: false
   robots: []
 canonical_url: 'https://taleno.digital/about'
 no_index: false
