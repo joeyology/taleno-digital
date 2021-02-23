@@ -58,8 +58,8 @@ sections:
         template: feature_item
         title: SeekFirst.Store
         content: >
-          We can help you setup a fast, scalable and secure cloud data warehouse
-          powered by Snowflake.
+          We don't just make products and sell. We ensure that our creations are
+          inspired by the Word of God.
         image: /images/undraw_web_shopping_dd4l (1).svg
         image_alt: Keep your business data in fast and secure cloud data warehouse
         actions:
