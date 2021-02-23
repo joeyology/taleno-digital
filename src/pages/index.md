@@ -31,7 +31,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: Making
+    title: Making No-code
   - type: section_features
     template: section_features
     section_id: services
