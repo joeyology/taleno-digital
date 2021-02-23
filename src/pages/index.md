@@ -20,7 +20,6 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Your Business Partner for Data Analytics
     content: >
       Helping you build an end-to-end cloud data solution so you can focus on
       making data-driven decisions for your business.
