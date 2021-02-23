@@ -35,7 +35,7 @@ sections:
           - Christian Life
           - Data Analytics
           - No-code SaaS
-          - Data Integration + Data Warehouse
+          - null
           - null
           - null
           - null
