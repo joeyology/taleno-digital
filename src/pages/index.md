@@ -73,7 +73,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Make data-driven decisions through business analytics
+        title: Your Business Partner in Data Analytics
         content: >
           We also provide end-to-end consulting services to help you with your
           Data Integration, Data Warehousing and Business Analytics needs.
