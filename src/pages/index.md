@@ -59,7 +59,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Keep your business data in fast and secure cloud data warehouse
+        title: SeekFirst.Store
         content: >
           We can help you setup a fast, scalable and secure cloud data warehouse
           powered by Snowflake.
