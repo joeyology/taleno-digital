@@ -2,7 +2,9 @@
 title: Home
 seo:
   title: Taleno.Digital
-  description: 'The Chick-fil-A of No-Code SaaS Community. '
+  description: >-
+    The Chick-fil-A of No-Code SaaS Community. We aim to provide valuable yet
+    cost effective software services for everyday use in life and business.
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
