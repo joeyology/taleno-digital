@@ -20,9 +20,8 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    content: >
-      Helping you build an end-to-end cloud data solution so you can focus on
-      making data-driven decisions for your business.
+    content: |
+      Making Software as a Service with Data Analytics and Christian Values.
     image: /images/undraw_data_trends_b0wg.svg
     image_alt: Data Analytics
     actions:
