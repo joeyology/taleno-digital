@@ -29,7 +29,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: The Chick-
+    title: The Chick-fil-A of No-Code SaaS Community
   - type: section_features
     template: section_features
     section_id: services
