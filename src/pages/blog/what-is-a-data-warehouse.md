@@ -52,9 +52,10 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/undraw_server_q2pb.png
+      value: >-
+        https://cdn.forestry.io/res2/2ZMIwFhSFN7L7eCKZ_Q8KrX6vzbHr-VwxBZxYeJLp0E/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVGpGT05tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjll/MWNiMmUzN2ZmMDYy/ZDIyNGFkZjk0MDUx/Y2FlYjI0ZTJmMmE3/ZS91bmRyYXdfc2Vy/dmVyX3EycGIucG5n
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
   robots:
     - follow
     - index
