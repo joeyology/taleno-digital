@@ -73,6 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
       - type: feature_item
         template: feature_item
         title: Your Partner in Business Analytics
