@@ -33,7 +33,7 @@ sections:
         default_value: Please select
         options:
           - Christian Life
-          - Data Warehouse
+          - Data Analytics
           - Business Analytics
           - Data Integration + Data Warehouse
           - Data Warehouse + Business Analytics
