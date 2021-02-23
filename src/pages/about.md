@@ -24,6 +24,12 @@ seo:
       value: About Us | Taleno.Digital
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: |-
+        To Love God and Help People. Making SaaS with 
+        Data Analytics & Christian Values
+      keyName: name
+      relativeUrl: false
   robots: []
 canonical_url: 'https://taleno.digital/about'
 no_index: false
