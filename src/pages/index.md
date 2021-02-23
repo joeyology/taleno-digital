@@ -2,7 +2,9 @@
 title: Home
 seo:
   title: Taleno.Digital
-  description: Making Software as a Service with Data Analytics and Christian Values
+  description: >-
+    Making Software as a Service with Data Analytics Consultation and Christian
+    Values
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
