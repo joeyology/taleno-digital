@@ -42,7 +42,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: Integrate and transform your business data with less or no-code
+        title: BibleApp.Pro
         content: >
           We can help you setup a low-code to no-code data integration platform
           in the cloud powered by Matillion.
