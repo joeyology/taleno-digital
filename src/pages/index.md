@@ -29,7 +29,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: Making Software as a Service with Data Analytics and Christian Values
+    title: The Chick-
   - type: section_features
     template: section_features
     section_id: services
