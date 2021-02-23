@@ -46,7 +46,7 @@ sections:
         content: >
           We can help you setup a low-code to no-code data integration platform
           in the cloud powered by Matillion.
-        image: /images/undraw_version_control_9bpv.svg
+        image: /images/undraw_reading_time_gvg0 (3).svg
         image_alt: Integrate and transform your business data with less or no-code
         actions:
           - type: action
