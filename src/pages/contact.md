@@ -36,7 +36,7 @@ sections:
           - Data Analytics
           - No-code SaaS
           - Data Integration + Data Warehouse
-          - Data Warehouse + Business Analytics
+          - null
           - null
           - null
         is_required: false
