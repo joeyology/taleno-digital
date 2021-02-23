@@ -21,8 +21,8 @@ sections:
     template: section_hero
     section_id: hero
     content: >
-      We aim to provide valuable yet cost effective SaaS for your life and
-      business.
+      We aim to provide valuable yet cost effective software services for your
+      life and business.
     image: /images/undraw_startup_life_2du2.svg
     image_alt: Data Analytics
     actions:
