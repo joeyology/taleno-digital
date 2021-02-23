@@ -31,7 +31,7 @@ sections:
         label: Learn More
         url: '/#services'
         style: primary
-    title: Making No-code SaaS with Data Analytics
+    title: Making No-code SaaS
   - type: section_features
     template: section_features
     section_id: services
