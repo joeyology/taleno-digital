@@ -46,14 +46,14 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:image'
+      value: /images/undraw_launching_125y.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
       value: >-
         https://cdn.forestry.io/res2/NrdteowQjRQbySjOsdUB_3o5ONINWGjGVh3xAHx34nQ/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVvMU5tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZGI3/ZmMyOTk1Nzk3ZDhh/ZDhhZTg5NGJmZTM3/Yjc4NDRmOWRhNGE1/Ni91bmRyYXdfbGF1/bmNoaW5nXzEyNXku/cG5n
       keyName: property
       relativeUrl: false
-    - name: 'twitter:image'
-      value: /images/undraw_launching_125y.png
-      keyName: property
-      relativeUrl: true
   robots:
     - follow
     - index
@@ -74,7 +74,7 @@ That all sounds great and psychological but with all the work load in my plate, 
 
 ### Application
 
-However, the idea is great I just need to find out how to apply it. Since I can't do this at work effectively, why not try to be an entrepreneur myself? No psychology needed. Just real. So I can be able to gain an entrepreneurial mindset.
+The idea is great however, I just need to find out how to apply it. Since I can't do this at work effectively, why not try to be an entrepreneur myself? No psychology needed. Just pure reality.
 
 Hence, that's how [taleno.digital](https://taleno.digital/) is born. 🚀
 
