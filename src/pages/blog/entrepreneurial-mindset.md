@@ -1,64 +1,60 @@
 ---
 template: post
 title: Entrepreneurial Mindset
-subtitle: Entrepreneurial Mindset (as far as I remember)
-date: '2021-02-01T16:00:00.000+00:00'
+subtitle: What's in it for Taleno.Digital?
+date: 2021-02-01T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
-excerpt: >-
-  Having an Entrepreneurial Mindset in a corporate setting is being able to
-  think like a business man even if currently employed. In practical
-  application, it's taking that something that is really irritating at work (or
-  the pain points) and think of a solution to that particular problem.
-image: /images/undraw_launching_125y.svg
+excerpt: Having an Entrepreneurial Mindset in a corporate setting is being able to
+  think like a business man even if currently employed. In practical application,
+  it's taking that something that is really irritating at work (or the pain points)
+  and think of a solution to that particular problem.
+image: "/images/undraw_launching_125y.svg"
 image_alt: Entrepreneurial Mindset
-thumb_image: /images/undraw_launching_125y.svg
+thumb_image: "/images/undraw_launching_125y.svg"
 thumb_image_alt: Entrepreneurial Mindset
 seo:
   title: Entrepreneurial Mindset | Taleno.Digital
-  description: >-
-    Having an Entrepreneurial Mindset in a corporate setting is being able to
-    think like a business man even if currently employed.
+  description: Having an Entrepreneurial Mindset in a corporate setting is being able
+    to think like a business man even if currently employed.
   type: stackbit_page_meta
   template: stackbit_page_meta
   extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-      relativeUrl: false
-    - name: 'og:description'
-      value: >-
-        Having an Entrepreneurial Mindset in a corporate setting is being able
-        to think like a business man even if currently employed.
-      keyName: property
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: >-
-        Having an Entrepreneurial Mindset in a corporate setting is being able
-        to think like a business man even if currently employed.
-      keyName: name
-      relativeUrl: false
-    - name: 'og:title'
-      value: Entrepreneurial Mindset | Taleno.Digital
-      keyName: property
-      relativeUrl: false
-    - name: 'twitter:title'
-      value: Entrepreneurial Mindset | Taleno.Digital
-      keyName: name
-      relativeUrl: false
-    - name: 'og:image'
-      value: /images/undraw_launching_125y.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:image'
-      value: >-
-        https://cdn.forestry.io/res2/NrdteowQjRQbySjOsdUB_3o5ONINWGjGVh3xAHx34nQ/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVvMU5tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZGI3/ZmMyOTk1Nzk3ZDhh/ZDhhZTg5NGJmZTM3/Yjc4NDRmOWRhNGE1/Ni91bmRyYXdfbGF1/bmNoaW5nXzEyNXku/cG5n
-      keyName: property
-      relativeUrl: false
+  - name: og:type
+    value: article
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: Having an Entrepreneurial Mindset in a corporate setting is being able
+      to think like a business man even if currently employed.
+    keyName: property
+    relativeUrl: false
+  - name: twitter:description
+    value: Having an Entrepreneurial Mindset in a corporate setting is being able
+      to think like a business man even if currently employed.
+    keyName: name
+    relativeUrl: false
+  - name: og:title
+    value: Entrepreneurial Mindset | Taleno.Digital
+    keyName: property
+    relativeUrl: false
+  - name: twitter:title
+    value: Entrepreneurial Mindset | Taleno.Digital
+    keyName: name
+    relativeUrl: false
+  - name: og:image
+    value: "/images/undraw_launching_125y.png"
+    keyName: property
+    relativeUrl: true
+  - name: twitter:image
+    value: https://cdn.forestry.io/res2/NrdteowQjRQbySjOsdUB_3o5ONINWGjGVh3xAHx34nQ/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVvMU5tZHZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZGI3/ZmMyOTk1Nzk3ZDhh/ZDhhZTg5NGJmZTM3/Yjc4NDRmOWRhNGE1/Ni91bmRyYXdfbGF1/bmNoaW5nXzEyNXku/cG5n
+    keyName: property
+    relativeUrl: false
   robots:
-    - follow
-    - index
-canonical_url: 'https://taleno.digital/blog/entrepreneurial-mindset'
+  - follow
+  - index
+canonical_url: https://taleno.digital/blog/entrepreneurial-mindset
 no_index: false
+
 ---
 ### Context
 
