@@ -70,7 +70,7 @@ That all sounds great and psychological but with all the work load in my plate, 
 
 ### Application
 
-However, the idea is great I just need to find out how to apply it. Since I can't do this at work effectively, why not try to be an entrepreneur myself? No psychology needed. Just real. So I can be able to gain an entrepreneurial mindset.
+The idea is great however, I just need to find out how to apply it. Since I can't do this at work effectively, why not try to be an entrepreneur myself? No psychology needed. Just pure reality.
 
 Hence, that's how [taleno.digital](https://taleno.digital/) is born. 🚀
 
