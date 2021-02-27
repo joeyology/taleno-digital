@@ -27,6 +27,10 @@ seo:
       value: Build In Public | Taleno.Digital
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Build In Public | Taleno.Digital
+      keyName: property
+      relativeUrl: false
 title: Building In Public
 subtitle: The No-Code SaaS Journey
 date: '2021-02-26T16:00:00Z'
