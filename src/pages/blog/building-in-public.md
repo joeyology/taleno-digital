@@ -23,6 +23,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Build In Public | Taleno.Digital
+      keyName: name
+      relativeUrl: false
 title: Building In Public
 subtitle: The No-Code SaaS Journey
 date: '2021-02-26T16:00:00Z'
