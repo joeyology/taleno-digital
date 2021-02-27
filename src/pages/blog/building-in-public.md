@@ -10,9 +10,10 @@ seo:
     - index
   extra:
     - name: 'og:image'
-      value: /images/undraw_programming_2svr.png
+      value: >-
+        https://cdn.forestry.io/res2/hWTI6vfLGXr_u0LqGlSZosJJEycAxdtqNYP2dvKKHhQ/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzJ0VlJWRnpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMGMx/ZmE4MDgwOWFkOWVi/MDg2NDFkMGViOTFl/MTU5OTVlY2ZhODdm/MC91bmRyYXdfcHJv/Z3JhbW1pbmdfMnN2/ciUyMCgxKS5zdmc
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:image'
       value: >-
         https://cdn.forestry.io/res2/hWTI6vfLGXr_u0LqGlSZosJJEycAxdtqNYP2dvKKHhQ/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzJ0VlJWRnpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMGMx/ZmE4MDgwOWFkOWVi/MDg2NDFkMGViOTFl/MTU5OTVlY2ZhODdm/MC91bmRyYXdfcHJv/Z3JhbW1pbmdfMnN2/ciUyMCgxKS5zdmc
