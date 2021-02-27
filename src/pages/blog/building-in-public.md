@@ -3,7 +3,9 @@ template: post
 seo:
   type: stackbit_page_meta
   title: Build In Public | Taleno.Digital
-  description: ''
+  description: >-
+    As a result of my journey to gain an entrepreneurial mindset through a real
+    life example (by trying to be an entrepreneur myself),
   robots:
     - index
   extra: []
