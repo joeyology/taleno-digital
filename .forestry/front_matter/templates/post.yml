@@ -70,6 +70,7 @@ fields:
     label: Page meta data
     template: stackbit_page_meta
 pages:
+- src/pages/blog/building-in-public.md
 - src/pages/blog/entrepreneurial-mindset.md
 - src/pages/blog/what-is-a-data-warehouse.md
 - src/pages/blog/what-is-business-analytics.md
