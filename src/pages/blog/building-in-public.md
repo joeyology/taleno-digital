@@ -35,7 +35,7 @@ image: /images/undraw_programming_2svr-1.svg
 image_alt: Building In Public
 thumb_image: /images/undraw_programming_2svr-1.svg
 thumb_image_alt: Building In Public
-canonical_url: ''
+canonical_url: 'https://taleno.digital/blog/building-in-public'
 no_index: false
 ---
 ### Let's do this!
