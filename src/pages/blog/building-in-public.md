@@ -8,7 +8,11 @@ seo:
     life example (by trying to be an entrepreneur myself),
   robots:
     - index
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/undraw_programming_2svr.png
+      keyName: property
+      relativeUrl: true
 title: Building In Public
 subtitle: The No-Code SaaS Journey
 date: '2021-02-26T16:00:00Z'
