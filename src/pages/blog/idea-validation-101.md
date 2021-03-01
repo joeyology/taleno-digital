@@ -2,25 +2,25 @@
 template: post
 seo:
   type: stackbit_page_meta
-  title: ''
+  title: Idea Validation 101
   description: ''
   robots: []
   extra: []
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
-date: 2021-02-28T16:00:00Z
+date: '2021-02-28T16:00:00Z'
 author: src/data/authors/john-doe.yaml
-excerpt: 'Upon researching (which is a very important step), I found this tips & tricks
-  in starting an online directory. Their #1 tip is to use Google Key Planner to see
-  related keywords to the idea and check the number of Average Monthly Searches and
-  the status of the Competition.'
-image: "/images/undraw_file_searching_re_3evy.svg"
+excerpt: >-
+  Upon researching (which is a very important step), I found this tips & tricks
+  in starting an online directory. Their #1 tip is to use Google Key Planner to
+  see related keywords to the idea and check the number of Average Monthly
+  Searches and the status of the Competition.
+image: /images/undraw_file_searching_re_3evy.svg
 image_alt: Idea Validation 101
-thumb_image: "/images/undraw_file_searching_re_3evy.svg"
+thumb_image: /images/undraw_file_searching_re_3evy.svg
 thumb_image_alt: Idea Validation 101
 canonical_url: ''
 no_index: false
-
 ---
 ### Recap
 
