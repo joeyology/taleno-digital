@@ -32,7 +32,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Christian Life
+          - T
           - Data Analytics
           - No-code SaaS
           - null
