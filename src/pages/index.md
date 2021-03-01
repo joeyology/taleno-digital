@@ -81,7 +81,7 @@ sections:
           the weekend.
         image_alt: DavaoCity.Life
         actions:
-          - label: Try
+          - label: Try it now
             url: lorem-ipsum
             style: link
             has_icon: false
