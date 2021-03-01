@@ -89,6 +89,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/undraw_Map_dark_k9pw.svg
       - type: feature_item
         template: feature_item
         title: Your Partner in Business Analytics
