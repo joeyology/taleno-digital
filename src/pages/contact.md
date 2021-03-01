@@ -34,7 +34,7 @@ sections:
         options:
           - Taleno.Digital
           - BibleApp.Pro
-          - SeekFirst
+          - SeekFirst.Store
           - null
           - null
           - null
