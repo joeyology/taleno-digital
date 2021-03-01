@@ -80,7 +80,16 @@ sections:
           currently residing. We built the platform without code and just over
           the weekend.
         image_alt: DavaoCity.Life
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: /images/undraw_Map_dark_k9pw.svg
       - type: feature_item
