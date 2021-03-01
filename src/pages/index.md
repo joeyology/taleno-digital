@@ -74,6 +74,21 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
       - type: feature_item
         template: feature_item
         title: Your Partner in Business Analytics
@@ -91,21 +106,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
   - type: section_reviews
     template: section_reviews
     section_id: reviews
