@@ -36,9 +36,6 @@ sections:
           - BibleApp.Pro
           - SeekFirst.Store
           - DavaoCity.Life
-          - null
-          - null
-          - null
         is_required: false
       - type: form_field
         template: form_field
