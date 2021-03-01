@@ -3,7 +3,10 @@ template: post
 seo:
   type: stackbit_page_meta
   title: Idea Validation 101
-  description: ''
+  description: >-
+    Upon researching (which is a very important step), I found this tips &
+    tricks in starting an online directory. Their #1 tip is to use Google Key
+    Planner.
   robots: []
   extra: []
 title: Idea Validation 101
