@@ -35,6 +35,10 @@ seo:
       value: Idea Validation 101
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/thoughtful-spinach.png
+      keyName: property
+      relativeUrl: true
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
 date: '2021-02-28T16:00:00Z'
