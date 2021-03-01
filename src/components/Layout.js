@@ -75,7 +75,7 @@ export default class Body extends React.Component {
                             passthrough : {
                                 twitter: {
                                     via: "talenodigital",
-                                    hashtags: "nocode,saas,journey"
+                                    hashtags: "nocode,saas,Buildinpublic"
                                 }
                             },
                             media: "${_.get(this.props, 'pageContext.frontmatter.image', null)}"
