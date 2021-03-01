@@ -8,7 +8,14 @@ seo:
     tricks in starting an online directory. Their #1 tip is to use Google Key
     Planner.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Upon researching (which is a very important step), I found this tips &
+        tricks in starting an online directory. Their #1 tip is to use Google
+        Key Planner.
+      keyName: property
+      relativeUrl: false
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
 date: '2021-02-28T16:00:00Z'
