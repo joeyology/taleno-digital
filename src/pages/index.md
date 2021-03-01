@@ -79,7 +79,7 @@ sections:
           We love to support small businesses in Davao City where we are
           currently residing. We built the platform without code and just over
           the weekend.
-        image_alt: lorem-ipsum
+        image_alt: DavaoCity.Life
         actions: []
         type: feature_item
         image: /images/undraw_Map_dark_k9pw.svg
