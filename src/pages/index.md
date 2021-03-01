@@ -74,7 +74,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-      - title: lorem-ipsum
+      - title: DavaoCity.Life
         content: >-
           ## Lorem ipsum
 
