@@ -32,7 +32,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - T
+          - Taleno.Digital
           - Data Analytics
           - No-code SaaS
           - null
