@@ -27,6 +27,10 @@ seo:
       value: Idea Validation 101
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
 date: '2021-02-28T16:00:00Z'
