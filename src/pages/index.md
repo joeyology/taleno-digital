@@ -75,17 +75,10 @@ sections:
             icon_position: right
             new_window: true
       - title: DavaoCity.Life
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We love to support small businesses in Davao City where we are
+          currently residing. We built the platform without code and just over
+          the weekend.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
