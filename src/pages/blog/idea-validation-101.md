@@ -40,6 +40,11 @@ seo:
         https://cdn.forestry.io/res2/YXuFT093k4Zool0Tb1pruLooamryI8AJ6j0dWkZLm2A/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVUZkNlJuZHpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYWM2/OGYyZjM0MTE1NTRj/MmU4NzUwZTNkYTY5/YjhlNzExMDhjZTc3/MC91bmRyYXdfRmls/ZV9zZWFyY2hpbmdf/cmVfM2V2eS5wbmc
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: >-
+        https://cdn.forestry.io/res2/YXuFT093k4Zool0Tb1pruLooamryI8AJ6j0dWkZLm2A/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVUZkNlJuZHpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYWM2/OGYyZjM0MTE1NTRj/MmU4NzUwZTNkYTY5/YjhlNzExMDhjZTc3/MC91bmRyYXdfRmls/ZV9zZWFyY2hpbmdf/cmVfM2V2eS5wbmc
+      keyName: property
+      relativeUrl: false
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
 date: '2021-02-28T16:00:00Z'
