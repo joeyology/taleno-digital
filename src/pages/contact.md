@@ -33,7 +33,7 @@ sections:
         default_value: Please select
         options:
           - Taleno.Digital
-          - Data Analytics
+          - BibleApp.Pro
           - No-code SaaS
           - null
           - null
