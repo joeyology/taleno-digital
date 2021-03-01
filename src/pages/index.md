@@ -82,7 +82,7 @@ sections:
         image_alt: DavaoCity.Life
         actions:
           - label: Discover Davao City
-            url: lorem-ipsum
+            url: 'https://davaocity.life/'
             style: link
             has_icon: false
             icon: arrow-left
