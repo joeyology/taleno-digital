@@ -72,6 +72,7 @@ fields:
 pages:
 - src/pages/blog/building-in-public.md
 - src/pages/blog/entrepreneurial-mindset.md
+- src/pages/blog/idea-validation-101.md
 - src/pages/blog/what-is-a-data-warehouse.md
 - src/pages/blog/what-is-business-analytics.md
 - src/pages/blog/what-is-data-integration.md
