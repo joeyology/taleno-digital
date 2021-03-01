@@ -35,7 +35,7 @@ sections:
           - Taleno.Digital
           - BibleApp.Pro
           - SeekFirst.Store
-          - null
+          - DavaoCity.Life
           - null
           - null
           - null
