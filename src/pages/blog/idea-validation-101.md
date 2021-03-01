@@ -31,6 +31,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Idea Validation 101
+      keyName: name
+      relativeUrl: false
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
 date: '2021-02-28T16:00:00Z'
