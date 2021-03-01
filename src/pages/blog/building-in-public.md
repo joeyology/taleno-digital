@@ -67,4 +67,4 @@ The funny thing is... I even barely started and doubt already attacked me withou
 
 Oh the joy of doing something what you love. 🥰
 
-In my next blog post, I'll be sharing about how I go about validating my idea. 😉
+In my [next blog post](https://taleno.digital/blog/idea-validation-101), I'll be sharing about how I go about validating my idea. 😉
