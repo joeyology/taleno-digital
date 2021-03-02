@@ -23,6 +23,10 @@ seo:
         someone to help fix it.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: '#BuildInPublic: First Money Mistake'
+      keyName: property
+      relativeUrl: false
 title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
 date: '2021-03-01T16:00:00Z'
