@@ -39,7 +39,7 @@ seo:
     relativeUrl: false
 title: Idea Validation 101
 subtitle: Hard lessons learned and some realizations
-date: 2021-02-28T16:00:00Z
+date: 2021-02-28T16:00:00.000+00:00
 author: src/data/authors/john-doe.yaml
 excerpt: 'Upon researching (which is a very important step), I found this tips & tricks
   in starting an online directory. Their #1 tip is to use Google Key Planner to see
@@ -75,7 +75,7 @@ I just settled with this approach and this helped me to at least have a sense th
 
 This is not a guarantee for success as I believe that there are lots of brilliant advices out there. But here's my takeaways:
 
-* **Research**. There's definitely something helpful in the internet just to start off. 
+* **Research**. There's definitely something helpful in the internet just to start off.
 * **Settle**. If you've found that helpful resource, stick to it and try. Do not get overloaded with information.
 
-In my next blog post, I'll be sharing about my initial mistakes and it costs me some money. 😅
+In my [next blog post](https://taleno.digital/blog/buildinpublic-first-money-mistake/), I'll be sharing about my initial mistakes and it costs me some money. 😅
