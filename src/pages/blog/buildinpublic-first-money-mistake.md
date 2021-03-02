@@ -31,6 +31,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: '#BuildInPublic: First Money Mistake'
+      keyName: name
+      relativeUrl: false
 title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
 date: '2021-03-01T16:00:00Z'
