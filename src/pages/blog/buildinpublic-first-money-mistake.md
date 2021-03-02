@@ -80,7 +80,7 @@ But then I needed to carry on. I was still in the hope of using **findyourlocal.
 
 I did another research but this time in Youtube. I found this great video that allowed the maker to build a directory listing **on his area** during the pandemic.
 
-Notice the bold words. 
+Notice the bold words.
 
 Those words made me bought another domain. Still on the same day. 😶
 
@@ -90,7 +90,7 @@ But it didn't end here...
 
 ### Copy cat syndrome attack
 
-I watched that youtube video again in the morning and it made me want to buy another domain that's inspired by the example. 
+I watched that youtube video again in the morning and it made me want to buy another domain that's inspired by the example.
 
 Boom! Just after a few seconds the third domain was born and it's called **wedeliverph.com**. Because I'm a Filipino and Philippines is my country or area. And I want to niche down on delivery services.
 
@@ -100,6 +100,6 @@ And then late realization strikes. I realized that [davaocity.life](https://dava
 
 I ended up having 3 domains and that cost me money. But end of the day, I am still grateful because I learned a lot from these mistakes.
 
-Mistakes is not a failure. It's real education IF we learn from it. 😊
+Mistake is not a failure. It's real education IF we learn from it. 😊
 
 In the next blog post, I'll be talking about how I build [davaocity.life](https://davaocity.life/)!
