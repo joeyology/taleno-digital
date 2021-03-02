@@ -16,6 +16,13 @@ seo:
         someone to help fix it.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        My first idea a global marketplace for those who are looking for a
+        service nearby. For example, my toilet suddenly got broken and I need
+        someone to help fix it.
+      keyName: name
+      relativeUrl: false
 title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
 date: '2021-03-01T16:00:00Z'
