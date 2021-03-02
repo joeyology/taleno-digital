@@ -36,9 +36,10 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:image'
-      value: /images/undraw_cancel_u1it.png
+      value: >-
+        https://cdn.forestry.io/res2/9lH8IzoDMge3VOfXp02T2zPKp9iZVxbEdhqjuGuoFdI/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU0dZeVNIZHpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjkw/NjQzY2Y2ZDg1Nzhl/YzZkNTdjMTI3Njky/YTAyMGZmM2M5Y2Nk/OC91bmRyYXdfY2Fu/Y2VsX3UxaXQucG5n
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
 title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
 date: '2021-03-01T16:00:00Z'
