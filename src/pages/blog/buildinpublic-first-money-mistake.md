@@ -2,24 +2,24 @@
 template: post
 seo:
   type: stackbit_page_meta
-  title: ''
+  title: '#BuildInPublic: First Money Mistake'
   description: ''
   robots: []
   extra: []
-title: "#BuildInPublic: First Money Mistake"
+title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
-date: 2021-03-01T16:00:00Z
+date: '2021-03-01T16:00:00Z'
 author: src/data/authors/john-doe.yaml
-excerpt: My first idea a global marketplace for those who are looking for a service
-  nearby. For example, my toilet suddenly got broken and I need someone to help fix
-  it. Along with this line.
-image: "/images/undraw_cancel_u1it.svg"
-image_alt: "#BuildInPublic: First Money Mistake"
-thumb_image: "/images/undraw_cancel_u1it.svg"
-thumb_image_alt: "#BuildInPublic: First Money Mistake"
-canonical_url: https://taleno.digital/blog/first-money-mistake
+excerpt: >-
+  My first idea a global marketplace for those who are looking for a service
+  nearby. For example, my toilet suddenly got broken and I need someone to help
+  fix it. Along with this line.
+image: /images/undraw_cancel_u1it.svg
+image_alt: '#BuildInPublic: First Money Mistake'
+thumb_image: /images/undraw_cancel_u1it.svg
+thumb_image_alt: '#BuildInPublic: First Money Mistake'
+canonical_url: 'https://taleno.digital/blog/first-money-mistake'
 no_index: false
-
 ---
 ### Recap
 
