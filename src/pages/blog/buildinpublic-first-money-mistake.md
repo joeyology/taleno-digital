@@ -57,7 +57,7 @@ image: /images/undraw_cancel_u1it.svg
 image_alt: '#BuildInPublic: First Money Mistake'
 thumb_image: /images/undraw_cancel_u1it.svg
 thumb_image_alt: '#BuildInPublic: First Money Mistake'
-canonical_url: 'https://taleno.digital/blog/first-money-mistake'
+canonical_url: 'https://taleno.digital/blog/buildinpublic-first-money-mistake/'
 no_index: false
 ---
 ### Recap
