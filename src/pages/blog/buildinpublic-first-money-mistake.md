@@ -35,6 +35,10 @@ seo:
       value: '#BuildInPublic: First Money Mistake'
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/undraw_cancel_u1it.png
+      keyName: property
+      relativeUrl: true
 title: '#BuildInPublic: First Money Mistake'
 subtitle: I ended up having 3 domains in one day
 date: '2021-03-01T16:00:00Z'
