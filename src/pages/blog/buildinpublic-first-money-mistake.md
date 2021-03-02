@@ -3,7 +3,10 @@ template: post
 seo:
   type: stackbit_page_meta
   title: '#BuildInPublic: First Money Mistake'
-  description: ''
+  description: >-
+    My first idea a global marketplace for those who are looking for a service
+    nearby. For example, my toilet suddenly got broken and I need someone to
+    help fix it.
   robots: []
   extra: []
 title: '#BuildInPublic: First Money Mistake'
