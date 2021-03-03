@@ -104,7 +104,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: '#call-to-action'
+            url: 'https://www.linkedin.com/in/jmtaleno/'
             style: secondary
             has_icon: true
             icon: arrow-right
