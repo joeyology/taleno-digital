@@ -67,7 +67,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: Shop Now
             url: 'https://seekfirst.store/'
             style: secondary
             has_icon: true
