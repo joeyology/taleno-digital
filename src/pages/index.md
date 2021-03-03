@@ -109,49 +109,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - type: section_reviews
-    template: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: Hear what people say about us.
-    background: white
-    reviews:
-      - type: review_item
-        template: review_item
-        author: Doug Needham
-        avatar: /images/1516263094346.jpg
-        content: >-
-          Joey is an outstanding data engineer. He is intimate with all the data
-          modeling best practices, and provided outstanding operational support
-          for our Data Lake initiative. His attention to detail, and
-          professionalism in designing, building, and supporting our Data Lake
-          on both the Redshift and Snowflake platforms reflected credit upon
-          himself and our team. I would work with Joey again given the
-          opportunity.
-      - type: review_item
-        template: review_item
-        author: Avery Palay
-        avatar: /images/1517229458602.jpg
-        content: >-
-          It was easy working with Jose Mari at Polytechnic University of the
-          Philippines MsC in Information Technology. He is a good presenter and
-          a subject matter expert in the field of Data Analysis and reporting.
-          He helped me with several documents that we were building and added a
-          lot of feedback to the competitive analysis when we really needed
-          more. He was a pleasure to work with and I hope to work with him again
-          outside of PUP as I graduate this May. If there are any projects that
-          I need help with, I’m glad to contact him and work together.
-      - type: review_item
-        template: review_item
-        author: Angie Payne
-        avatar: /images/1517673709207.jpg
-        content: >-
-          I am highly recommending Jose Mari. He was one of my favorite
-          developers to work with. Joey as we call him has a great mix of
-          technical and business/communication skills. He didn't just develop
-          applications, he learned/understood what the business really wanted
-          and he developed solutions. He is very much a team player and very
-          easy to work with.
   - type: section_posts
     template: section_posts
     section_id: recent-posts
