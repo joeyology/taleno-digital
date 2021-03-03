@@ -109,6 +109,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
   - type: section_posts
     template: section_posts
     section_id: recent-posts
