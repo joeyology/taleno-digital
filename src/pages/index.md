@@ -49,7 +49,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn more
+            label: Read more
             url: 'https://www.bibleapp.pro/'
             style: secondary
             has_icon: true
